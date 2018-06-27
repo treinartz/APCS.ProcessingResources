@@ -1,6 +1,6 @@
 ---
-# AP Computer Science in Processsing
 
+<p style="text-align: center;"> # AP Computer Science in Processsing </p>
 Here is our open source github book on Processing for APCS Educators.  Our preliminary chapters will include topics typically found on the APCS exams in May.  Chapters are listed below!
 
 [Introduction and Conditional Logic](https://github.com/treinartz/APCS.Processing.Fellowship.Resources/blob/gh-pages/chapters/IntroAndConditionalLogic.md)
