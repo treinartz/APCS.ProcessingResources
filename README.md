@@ -1,5 +1,3 @@
-# APCS.ProcessingResources and TOC
-
 Here is our github open source book on Processing for APCS Educators.  Our preliminary chapters will include topics typically found on the APCS exams in May.  Chapters are listed below!
 
 [Introduction and Conditional Logic](https://github.com/treinartz/APCS.Processing.Fellowship.Resources/blob/gh-pages/chapters/IntroAndConditionalLogic.md)
