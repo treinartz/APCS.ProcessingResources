@@ -1,8 +1,5 @@
 # APCS.Processing.Fellowship.Resources
 
-Here is our github open source book on Processing for APCS Educators.  Our preliminary chapters will include topics typically found on the APCS exams in May.  Head on over to the [APCS Processing Chapters](https://github.com/treinartz/pFellowship/tree/gh-pages/chapters) we have created so far!
-
-
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=e6eXD8DHc_A
 " target="_blank"><img src="http://img.youtube.com/vi/e6eXD8DHc_A/0.jpg" 
