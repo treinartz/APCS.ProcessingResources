@@ -1,7 +1,7 @@
 # Inheritance
 
 ### Part 1: Introduction
-* First click here to read about Inheritance
+* First click here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html) to read about Inheritance
 * Second, click here to see some sample code in Processing
 * Third, watch this video on Inheritance
 
@@ -14,3 +14,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### Part 3: Formative Assessment
 
 ### Part 4: Projects
+
+
+
+
