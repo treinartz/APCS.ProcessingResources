@@ -2,7 +2,8 @@
 
 ### Part 1: Introduction
 * First click here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html) to read about Inheritance
-* Second, click here to see some sample code in Processing
+* Second, click here  [Processing Inheritance](
+http://learningprocessing.com/examples/chp22/example-22-01-inheritance) to see some sample code in Processing
 * Third, watch this video on Inheritance
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=e6eXD8DHc_A
@@ -14,7 +15,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### Part 3: Formative Assessment
 
 ### Part 4: Projects
-
 
 
 
