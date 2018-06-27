@@ -1,8 +1,8 @@
 # pFellowship
 
-Here is our github open source book on Processing for APCS Educators.  Our preliminary chapters will include topics typically found on the APCS exams in May:
+Here is our github open source book on Processing for APCS Educators.  Our preliminary chapters will include topics typically found on the APCS exams in May.  Head on over to the APCS Processing Chapters we have created so far!
 
-[Intro and Conditional Logic](https://github.com/treinartz/pFellowship/blob/gh-pages/Inheritance.md)
+[APCS Processing Chapters](https://github.com/treinartz/pFellowship/blob/gh-pages/Inheritance.md)
 
 [Strings](https://github.com/treinartz/pFellowship/blob/gh-pages/Inheritance.md)
 
