@@ -1,4 +1,4 @@
-# APCS.Processing.Fellowship.Resources
+# APCS.Processing.Fellowship.Resources TOC
 
 
 [Introduction and Conditional Logic](https://github.com/treinartz/APCS.Processing.Fellowship.Resources/blob/gh-pages/chapters/IntroAndConditionalLogic.md)
