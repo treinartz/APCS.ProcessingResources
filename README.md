@@ -1,3 +1,4 @@
+---
 # AP Computer Science in Processsing
 
 Here is our open source github book on Processing for APCS Educators.  Our preliminary chapters will include topics typically found on the APCS exams in May.  Chapters are listed below!
