@@ -1,7 +1,7 @@
 # APCS.Processing.Fellowship.Resources
 
 
-[APCS Processing Chapters](https://github.com/treinartz/pFellowship/tree/gh-pages/chapters)
+[Introduction and Conditional Logic](https://github.com/treinartz/APCS.Processing.Fellowship.Resources/blob/gh-pages/chapters/IntroAndConditionalLogic.md)
 
 [Strings](https://github.com/treinartz/pFellowship/blob/gh-pages/Strings.md)
 
