@@ -12,10 +12,14 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Part 2: Activities, Code and Instruction
 Here is an anchor  [Ready, set, GO!](#ready-set-go)
-
+[Take me there](#there_you_go)
 ### Part 3: Formative Assessment
 
 ### Part 4: Projects
 
 
 
+
+
+
+Take me there
