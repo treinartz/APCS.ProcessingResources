@@ -8,7 +8,7 @@
 
 [Part 4: Projects](### Part 4: Projects)
 
-
+[Ready, set, GO!](#ready-set-go)
 # Part 1: Introduction
 * First click here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html) to read about Inheritance
 * Second, click here  [Processing Inheritance](
@@ -24,7 +24,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-[Ready, set, GO!](#ready-set-go)
+
 
 
 
@@ -35,8 +35,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-
-[Take me there](#there_you_go)
 
 
 
@@ -56,7 +54,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-
 ### Part 4: Projects
 
 
@@ -64,5 +61,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-# There you go
 # ready-set-go
