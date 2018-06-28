@@ -2,7 +2,7 @@
 
 [Part 1: Introduction](#part-1-introduction)
 
-[Part 2: Activities, Code and Instruction](#Part-2-Activities,-Code-and-Instruction)
+[Part 2: Activities Code and Instruction](#Part-2-Activities-Code-and-Instruction)
 
 [Part 3: Formative Assessment](### Part 3: Formative Assessment)
 
