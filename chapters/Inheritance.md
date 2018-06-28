@@ -11,6 +11,7 @@ http://learningprocessing.com/examples/chp22/example-22-01-inheritance) to see s
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Part 2: Activities, Code and Instruction
+Here is an anchor  [Ready, set, GO!](#ready-set-go)
 
 ### Part 3: Formative Assessment
 
