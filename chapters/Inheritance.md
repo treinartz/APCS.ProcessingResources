@@ -1,12 +1,12 @@
 # Inheritance
 
-[Part 1: Introduction](#Part 1: Introduction)
+[Part 1: Introduction](#Part-1:-Introduction)
 
 [Part 2: Activities, Code and Instruction](### Part 2: Activities, Code and Instruction)
 
 [Part 3: Formative Assessment](### Part 3: Formative Assessment)
 
-[Part 4: Projects](### Part 4: Projects)
+[Part 4: Projects](###Part 4: Projects)
 
 [Ready, set, GO!](#ready-set-go)
 # Part 1: Introduction
