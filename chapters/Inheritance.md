@@ -11,20 +11,15 @@
 [Ready, set, GO!](#ready-set-go)
 # ready-set-go
 
+Markdown Header -
 
-% True Happiness
+## The Header
 
-Introduction
-------------
+this will generate an implicit id #the-header (replace internal spaces with hyphens and make lowercase).
 
-Many have posed the question of true happiness.  In this blog post we propose to
-solve it.
+To navigate to this id, you can create the link like this:
 
-First Attempts
---------------
-
-The earliest attempts at attaining true happiness of course aimed at pleasure. 
-Soon, though, the downside of pleasure was revealed.
+[Link to Header](#the-header)
 
 # Part 1: Introduction
 * First click here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html) to read about Inheritance
