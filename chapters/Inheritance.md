@@ -1,6 +1,6 @@
 # Inheritance
 
-[Part 1: Introduction](#part-1:-introduction)
+[Part 1: Introduction](#Part 1: Introduction)
 
 [Part 2: Activities, Code and Instruction](### Part 2: Activities, Code and Instruction)
 
@@ -9,6 +9,7 @@
 [Part 4: Projects](###Part 4: Projects)
 
 [Ready, set, GO!](#ready-set-go)
+
 # Part 1: Introduction
 * First click here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html) to read about Inheritance
 * Second, click here  [Processing Inheritance](
