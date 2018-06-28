@@ -73,4 +73,12 @@ f = loadFont("ArialMT-16.vlw");
 
 ## LAB EXERCISE 1
 Copy the code above and paste into Processing. Run the code and you should see output that looks like the following:
-![ALT-TEXT](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/HelloString.png)
+![The String "Hello Strings" in black arial font on a white background](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/HelloString.png)
+
+Modify the code to change
+(1) The font used 
+(2) The font size
+(3) The background color
+(4) The font color
+Here is an example of a completed lab (note yours will look different depending on the font and colors you chose)
+![The String "Hello Strings" in purple parchment font on a light blue background](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/HelloString2.png)
