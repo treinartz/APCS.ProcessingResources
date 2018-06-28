@@ -7,7 +7,9 @@
 [Part 3: Formative Assessment](#part-3-formative-assessment)
 
 [Part 4: Projects](#part-4-projects)
+
 ---
+
 ## Part 1 Introduction
 * First click here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html) to read about Inheritance
 * Second, click here  [Processing Inheritance](
