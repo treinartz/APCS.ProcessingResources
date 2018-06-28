@@ -73,4 +73,4 @@ f = loadFont("ArialMT-16.vlw");
 
 ## LAB EXERCISE 1
 Copy the code above and paste into Processing. Run the code and you should see output that looks like the following:
-!(APCS.ProcessingResources/chapters/HelloString.png)
+![ALT-TEXT](APCS.ProcessingResources/chapters/HelloString.png)
