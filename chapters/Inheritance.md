@@ -21,7 +21,7 @@ To navigate to this id, you can create the link like this:
 
 [Link to Header](#the-header)
 
-# Part 1: Introduction
+## Part 1: Introduction
 * First click here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html) to read about Inheritance
 * Second, click here  [Processing Inheritance](
 http://learningprocessing.com/examples/chp22/example-22-01-inheritance) to see some sample code in Processing
