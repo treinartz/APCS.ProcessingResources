@@ -73,4 +73,4 @@ f = loadFont("ArialMT-16.vlw");
 
 ## LAB EXERCISE 1
 Copy the code above and paste into Processing. Run the code and you should see output that looks like the following:
-![The string "Hello Strings" in black text on a white background]("HelloString.png")
+![The string "Hello Strings" in black text on a white background]("APCS.ProcessingResources/chapters/HelloString.png")
