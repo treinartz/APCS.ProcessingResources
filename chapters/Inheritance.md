@@ -12,6 +12,20 @@
 # ready-set-go
 
 
+% True Happiness
+
+Introduction
+------------
+
+Many have posed the question of true happiness.  In this blog post we propose to
+solve it.
+
+First Attempts
+--------------
+
+The earliest attempts at attaining true happiness of course aimed at pleasure. 
+Soon, though, the downside of pleasure was revealed.
+
 # Part 1: Introduction
 * First click here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html) to read about Inheritance
 * Second, click here  [Processing Inheritance](
