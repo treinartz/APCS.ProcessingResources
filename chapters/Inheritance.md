@@ -1,6 +1,6 @@
 # Inheritance
 
-[Part 1: Introduction](### Part 1: Introduction)
+[Part 1: Introduction](# Part 1: Introduction)
 
 [Part 2: Activities, Code and Instruction](### Part 2: Activities, Code and Instruction)
 
