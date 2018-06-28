@@ -4,9 +4,9 @@
 
 [Part 2: Activities Code and Instruction](#part-2-activities-code-and-instruction)
 
-[Part 3: Formative Assessment](### Part 3: Formative Assessment)
+[Part 3: Formative Assessment](#part-3-formative-assessment)
 
-[Part 4: Projects](###Part 4: Projects)
+[Part 4: Projects](#part-4-projects)
 
 ## Part 1 Introduction
 * First click here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html) to read about Inheritance
@@ -40,7 +40,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-### Part 3: Formative Assessment
+## Part 3: Formative Assessment
 
 
 
@@ -53,11 +53,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-### Part 4: Projects
+## Part 4: Projects
 
 
 
 
 
-
-# ready-set-go
