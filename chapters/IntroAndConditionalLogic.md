@@ -4,7 +4,7 @@
 
 [Part 2: Activities Code and Instruction](#part-2-activities-and-instruction)
 * Activity #1: [Sandwich making and algorithms](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-1-make-a-peanut-butter-and-jelly-sandwich-activity)
-* Activity #2: Introduction to Processing
+* Activity #2: [Introduction to Processing](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-2-basic-introduction-to-processing)
 * Activity #3: DVD Screensaver Code-along and Project
 * Activity #4: FizzBuzz App
 
@@ -83,10 +83,68 @@ With this infromation, allow students to experiment with changing thier backgrou
 
 [colorPicker]: https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/ColorPicker.PNG
 
-The task for the rest of the time is for students to re-create their image in processing using the commands found in the reference language.  It is recommended that the teacher model one more way 
+The task for the rest of the time is for students to re-create their image in processing using the commands found in the reference language.  It is recommended that the teacher model an element of their own drawing to show students how to navigate the reference and how coordinates work on the display screens.
 
-Using the provided handout, students can use the grid system to identify key points on their image.  Dem
+Using the provided handout, students can use the grid system to identify key points on their image.  
 
+### Activity #3: DVD Screensaver Code-along and Project
+
+**Activity modality:** Code-along
+
+**Goals:** 
+* Use conditional statements in a program
++ Animate shapes in 2 dimensions on a screen
++ Put images (and if time, sounds) into a sketch
++ Initiate variables and update variables
+
+**Activity Description**
+Students re-create the bouncing DVD logo in a sketch.  Students are guided through this with an instructor the process suggested is as follows:
++ Get image on the screen
++ Get the image to move in the x direction
++ Indentify why the movement isn't perfect... yet
++ Allow students to solve the movement problems AND add movement in the y direction
++ Encourage extensions, listed below
+
+**Hook**
+Show video from "The Office" (attached here or found at [this link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiX2ZTjwffUAhUGdT4KHbtvANQQuAIIKTAA&url=http%3A%2F%2Fwww.godtube.com%2Fwatch%2F%3Fv%3DJJBJFCNU&usg=AFQjCNFn-kQjAoiL0w_j0CRY40owbPUagA))
+
+Transition: 
+*"Animation is exciting.  Today, we are going to use p5 to re-create the animation from The Office"*
+
+**Get image on the screen**
+
+**Get image to move in x direction**
++ Introduce variables by declaring a global variable dvdx
++ Encourage students to predict how you will use the variable to make the image move
++ Do a code along to show how you can make the image move in the x direction (make it clear that you are updating the dvdx variable to change the position)
++ Show that the loop re-draws the image leaving a "path" behind it, thus you need to clear the screen.
+
+**Indentify why the movement isn't perfect... yet**
+* Ask students *"What could we do to make this better?"*
+  * Make the image bounce off the screen
+  * Make the image so it bounced off both ends
+  * Make the image so it bounces off the screen perfectly (not just off the screen)
+  * Make the image move in the y direction too
+
++ Ask students to predict with a partner how they might get the image to bounce off the screen.
++ Gather student generated ideas and do a code-along to make the bounce happen.
+
+* Ask students *"What could we do to make this better?"*
+ * Make the image bounce off both ends
+ * Make the image bounce off the screen perfectly (not just off the screen)
+ * Make the image move in the y direction too
+
+**Allow students to solve the movement problems AND add movement in the y direction**
++ Monitor students and bring the class back together to share solutions and troubleshoot problems
+
+**Encourage extensions!** 
+* Make it your own! 
+  * Make it move at a different speeds
+  * Make your own image/shape 
+  * Make it start in a random direction/location each time it starts
+  * Change the code so when it hits the corner something happens (colors change, sound happens?)
+  * Add in interactivity (make it when it bounces, it changes color, or when you click the screen the background changes color…)
+  * … other
 
 ## Part 3: Formative Assessment
 
@@ -102,3 +160,6 @@ Using the provided handout, students can use the grid system to identify key poi
 
 
 ## Part 4: Projects
+
+
+* Activity #3 was co-developed with Brian Shott for p5 and and adjusted here
