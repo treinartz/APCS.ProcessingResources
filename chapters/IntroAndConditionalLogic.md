@@ -21,9 +21,9 @@ This unit is designed to be a student's first introduction to programming.
 
 Activity modality: Unplugged
 Goals: 
-..*Write an algorithm
-..*Compare human language to languages computers understand
-..*Pull out vocabulary
+*Write an algorithm
+*Compare human language to languages computers understand
+*Pull out vocabulary
   ..*Parameter
   ..*Function
   
@@ -33,19 +33,19 @@ Goals:
 
 **Activity modality:** Modeling programming and Student-driven project
 **Goals:** 
-..*Learn how writing code works - sequencing and basic syntax
-..*Read and interpret documentation
-..*Gain familiarity with the “setup” and the “draw” functions
-..*Pull out vocabulary
+*Learn how writing code works - sequencing and basic syntax
+*Read and interpret documentation
+*Gain familiarity with the “setup” and the “draw” functions
+*Pull out vocabulary
   ..*Syntax
   ..*Return
   ..*RGB Colors
 
 **Activity Description**
 Ask students to create a picture of some type on graph paper. There are many ways to do this - some suggestions are:
-..* Use pattern blocks or tanagrams to create a picture
-..* Use colored pencils to draw a picture of what they did this summer.
-..* Show some images of some modern art and have students create their own.
+* Use pattern blocks or tanagrams to create a picture
+* Use colored pencils to draw a picture of what they did this summer.
+* Show some images of some modern art and have students create their own.
 
 Once students have an image on their graph paper, have them transfer it to a processing sketch.
 
