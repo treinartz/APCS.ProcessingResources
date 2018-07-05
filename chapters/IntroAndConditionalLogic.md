@@ -5,7 +5,7 @@
 [Part 2: Activities Code and Instruction](#part-2-activities-and-instruction)
 * Activity #1: [Sandwich making and algorithms](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-1-make-a-peanut-butter-and-jelly-sandwich-activity)
 * Activity #2: [Introduction to Processing](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-2-basic-introduction-to-processing)
-* Activity #3: DVD Screensaver Code-along and Project
+* Activity #3: [DVD Screensaver Code-along and Project](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-3-dvd-screensaver-code-along-and-project)
 * Activity #4: FizzBuzz App
 
 [Part 3: Formative Assessment](#part-3-formative-assessment)
@@ -148,6 +148,11 @@ Transition:
 
 ## Part 3: Formative Assessment
 
+### Around the World Activity
+The Around the World Activity is an opportunity for students to collaboratively read and trace code while also checking their answers as they go along.  In this document, each sheet of paper has a different problem on it as well as an answer that is NOT 
+
+
+### 10 Question Quiz
 
 
 
@@ -155,11 +160,6 @@ Transition:
 
 
 
-
-
-
-
-## Part 4: Projects
 
 
 * Activity #3 was co-developed with Brian Shott for p5 and and adjusted here
