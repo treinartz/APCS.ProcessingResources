@@ -3,10 +3,14 @@
 [Part 1: Introduction](#part-1-introduction)
 
 [Part 2: Activities Code and Instruction](#part-2-activities-and-instruction)
+* [Activity #1: Sandwich making and algorithms](#Activity-#1:-make-a-peanut-butter-and-jelly-sandwich-activity)
+* Activity #2: Introduction to Processing
+* Activity #3: DVD Screensaver Code-along and Project
+* Activity #4: FizzBuzz App
 
 [Part 3: Formative Assessment](#part-3-formative-assessment)
-
-[Part 4: Projects](#part-4-projects)
+* Around the World Activity
+* 10 Question Quiz
 
 ---
 
@@ -30,7 +34,7 @@ Goals:
   
 
 
-### Activity #2: Basic introduction to processing. 
+### Activity #2: Basic introduction to Processing. 
 
 **Activity modality:** Modeling programming and Student-driven project
 
