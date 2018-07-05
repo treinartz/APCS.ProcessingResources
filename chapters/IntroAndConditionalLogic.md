@@ -3,7 +3,7 @@
 [Part 1: Introduction](#part-1-introduction)
 
 [Part 2: Activities Code and Instruction](#part-2-activities-and-instruction)
-* [Activity #1: Sandwich making and algorithms](#Activity-#1:-make-a-peanut-butter-and-jelly-sandwich-activity)
+* Activity #1: [Sandwich making and algorithms](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-1-make-a-peanut-butter-and-jelly-sandwich-activity)
 * Activity #2: Introduction to Processing
 * Activity #3: DVD Screensaver Code-along and Project
 * Activity #4: FizzBuzz App
