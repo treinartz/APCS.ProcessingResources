@@ -20,26 +20,28 @@ This unit is designed to be a student's first introduction to programming.
 ### Activity #1: Make a peanut butter and jelly sandwich activity
 
 Activity modality: Unplugged
+
 Goals: 
-*Write an algorithm
-*Compare human language to languages computers understand
-*Pull out vocabulary
-  ..*Parameter
-  ..*Function
+* Write an algorithm
+* Compare human language to languages computers understand
+* Pull out vocabulary
+  * Parameter
+  * Function
   
 
 
 ### Activity #2: Basic introduction to processing. 
 
 **Activity modality:** Modeling programming and Student-driven project
+
 **Goals:** 
-*Learn how writing code works - sequencing and basic syntax
-*Read and interpret documentation
-*Gain familiarity with the “setup” and the “draw” functions
-*Pull out vocabulary
-  ..*Syntax
-  ..*Return
-  ..*RGB Colors
+* Learn how writing code works - sequencing and basic syntax
+* Read and interpret documentation
+* Gain familiarity with the “setup” and the “draw” functions
+* Pull out vocabulary
+  * Syntax
+  * Return
+  * RGB Colors
 
 **Activity Description**
 Ask students to create a picture of some type on graph paper. There are many ways to do this - some suggestions are:
