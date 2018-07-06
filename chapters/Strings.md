@@ -72,6 +72,13 @@ Fonts can also be created using "Tools" → "Create Font." This will create and 
 f = loadFont("ArialMT-16.vlw");
 
 ## LAB EXERCISE 1
+Learning Objectives
+After completion of this lab, students should be able to
+* Create and display a string object using formatted text
+
+Previous knowlege required:
+* Basic drawing in Processing, including color representation
+
 Copy the code above and paste into Processing. Run the code and you should see output that looks like the following:
 ![The String "Hello Strings" in black arial font on a white background](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/HelloString.png)
 
