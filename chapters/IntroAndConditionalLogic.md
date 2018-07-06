@@ -45,6 +45,8 @@ Goals:
 * Pull out vocabulary
   * Syntax
   * Return
+  * Arguments
+  * Functions
   * RGB Colors
 
 **Resources:**
@@ -112,6 +114,7 @@ Using the provided handout, students can use the grid system to identify key poi
 ### Activity #3: DVD Screensaver Code-along and Project
 
 **Activity modality:** Code-along
+_Alternative modality:_ This may also work as a pair programming activity or a POGIL-type of activity.  A set of student facing directions can be found in [Google Doc](https://docs.google.com/document/d/1NAmKSAu1hne4R3ABDo6uf9MYptpzR7nx3umLUi1H6x0/edit?usp=sharing) form if you decide to have students work through this in partners rather than as a big class. 
 
 **Goals:** 
 
