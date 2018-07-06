@@ -132,15 +132,17 @@ Students re-create the bouncing DVD logo in a sketch.  Students are guided throu
 + Get the image to move in the x direction
 + Indentify why the movement isn't perfect... yet
 + Allow students to solve the movement problems AND add movement in the y direction
-+ Encourage extensions, listed below
++ Encourage extensions
 
 **Hook**
 Show video from "The Office" (attached here or found at [this link](https://www.youtube.com/watch?v=QOtuX0jL85Y))
 
 Transition: 
-*"Animation is exciting.  Today, we are going to use p5 to re-create the animation from The Office"*
+*"Animation is exciting.  Today, we are going to use Processing to re-create the animation from The Office"*
 
 **Get image on the screen**
+
+To do this, students need to add a 
 
 **Get image to move in x direction**
 + Introduce variables by declaring a global variable dvdx
