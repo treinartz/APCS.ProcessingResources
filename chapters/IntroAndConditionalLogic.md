@@ -60,6 +60,7 @@ In this lesson, students will create an image on paper and then transfer it to p
 * Students re-create their image in Processing.
 
 **Students Create their Image**
+
 Ask students to create a picture of some type on graph paper. There are many ways to do this - some suggestions are:
 * Use pattern blocks or tanagrams to create a picture
 * Use colored pencils to draw a picture of what they did this summer.
@@ -68,6 +69,7 @@ Ask students to create a picture of some type on graph paper. There are many way
 Once students have an image on their graph paper, have them transfer it to a processing sketch.
 
 **Getting Into Processing**
+
 It is recommended that the teacher do this task too initially to model how students will start.  The teacher should have three things in front of them. 1) Their drawing, 2) The Processing IDE, and 3) The Processing Reference.
 
 Give students a tour of what a typical sketch contains including how the setup() and draw() functions work.  At this point, it is ok to describe to students that any code written in the setup function runs once (when the program is run) and that the draw function runs repeatedly. 
@@ -77,6 +79,7 @@ Give students a tour of what a typical sketch contains including how the setup()
 Initially, have students change the size of the sketch.  Students can do this by using the size() function.  They will need to put in two *parameters* into the size function to descsribe the length and width.  
 
 **Modeling Reading the Documentation**
+
 At this point, students will see various sized gray display windows on their screens.  A natural tendancy of students will be to want to change the color of the background.  To do this, the teacher can model how to use the Processing reference.  It is to be expected that some students might be overwhlemed by all of the commands in the reference.  It may be a good idea to focus students' attention on the **2D Primitives** and **Setting** categories.
 
 Have students click on background() under **Setting**.  Provide students with 1-2 minutes to explore the page themselves.  Ask students *"What do you notice?  What do you wonder?"*.  After students explore, gather their responses as a class.  Point out key portions of the reference.  Make sure to point out the following:
@@ -86,6 +89,7 @@ Have students click on background() under **Setting**.  Provide students with 1-
 * The parameters have data types associated with them.  Again, the computer is expecting a specific type of data when you use this mehtod.  If you don't use the right type of data, the computer may have trouble understanding your code.
 
 **Introducing RGB Colors**
+
 This is the time to point out how RGB colors work.  Since the default mode in Processing is to use RGB colorMode, students maybe confused as to what v1, v2, and v3 are supposed to represent.  Describe how mixing paint is different than mixing light.  When we mix paint, we use red, yellow, and blue but when we mix light we use red, green, and blue (or RGB).  A quick google search of additive vs. subtractive color mixing can get more into the science behind this, but that is beyond the scope of the lesson as designed. 
 
 ![alt text][lightMixing]
@@ -144,17 +148,13 @@ Transition:
 
 + Ask students to predict with a partner how they might get the image to bounce off the screen.
 + Gather student generated ideas and do a code-along to make the bounce happen.
-
-* Ask students *"What could we do to make this better?"*
- * Make the image bounce off both ends
- * Make the image bounce off the screen perfectly (not just off the screen)
- * Make the image move in the y direction too
+ * During code-along, model frequent testing of code as well as mistake making.
 
 **Allow students to solve the movement problems AND add movement in the y direction**
 + Monitor students and bring the class back together to share solutions and troubleshoot problems
 
 **Encourage extensions!** 
-* Make it your own! 
+* Possible extensions include: 
   * Make it move at a different speeds
   * Make your own image/shape 
   * Make it start in a random direction/location each time it starts
