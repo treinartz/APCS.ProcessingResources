@@ -47,6 +47,9 @@ Goals:
   * Return
   * RGB Colors
 
+**Resources:**
+* Student Guide ([PDF], [Google Doc] (https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing))
+
 **Activity Description**
 
 In this lesson, students will create an image on paper and then transfer it to processing.  This lesson calls for a mixture of instructor modeling as well as a student-driven project.  The general flow of the lesson includes the following:
