@@ -48,8 +48,8 @@ Goals:
   * RGB Colors
 
 **Resources:**
-* Student Guide ( [PDF]:APCS.ProcessingResources/chapters/Student Guide_ Introduction to Processing Handout - Activty2.pdf, [Google Doc]: https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing)
-* Optional Videos about [Pixels: (https://www.youtube.com/watch?v=a562vsSI2Po, [How to Use Setup and Draw]: https://www.youtube.com/watch?v=o8dffrZ86gs, and [RGB Colors]: https://www.youtube.com/watch?v=n2oHuKG_BQc&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9&index=2 
+* Student Guide ( [PDF](APCS.ProcessingResources/chapters/Student Guide_ Introduction to Processing Handout - Activty2.pdf), [Google Doc](https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing)
+* Optional Videos about [Pixels](https://www.youtube.com/watch?v=a562vsSI2Po, [How to Use Setup and Draw](https://www.youtube.com/watch?v=o8dffrZ86gs), and [RGB Colors](https://www.youtube.com/watch?v=n2oHuKG_BQc&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9&index=2)
 
 **Activity Description**
 
@@ -135,7 +135,7 @@ Students re-create the bouncing DVD logo in a sketch.  Students are guided throu
 + Encourage extensions, listed below
 
 **Hook**
-Show video from "The Office" (attached here or found at [this link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiX2ZTjwffUAhUGdT4KHbtvANQQuAIIKTAA&url=http%3A%2F%2Fwww.godtube.com%2Fwatch%2F%3Fv%3DJJBJFCNU&usg=AFQjCNFn-kQjAoiL0w_j0CRY40owbPUagA))
+Show video from "The Office" (attached here or found at [this link](https://www.youtube.com/watch?v=QOtuX0jL85Y))
 
 Transition: 
 *"Animation is exciting.  Today, we are going to use p5 to re-create the animation from The Office"*
