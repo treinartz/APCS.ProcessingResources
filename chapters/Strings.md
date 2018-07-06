@@ -1,7 +1,7 @@
 # Strings
 (Note, this section contains selections of the Processing String Tutorial available here: https://processing.org/tutorials/text/)
 
-## Introduction to Creating and Drawing Strings
+## Section A: Introduction to Creating and Drawing Strings
 Any time we want to use text in our programs, or display text in our output, we are likely going to need Strings. We've seen Strings in our code before, and in this chapter we will start to understand how they work and how we can display and manipulate them in Processing.
 
 Here are some examples of ways you may have used strings in your code:
@@ -82,3 +82,6 @@ Modify the code to change
 (4) The font color
 Here is an example of a completed lab (note yours will look different depending on the font and colors you chose)
 ![The String "Hello Strings" in purple parchment font on a light blue background](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/HelloString2.png)
+
+
+## Section A: Manipulating Strings
