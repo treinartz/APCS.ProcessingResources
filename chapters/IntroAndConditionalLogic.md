@@ -48,7 +48,7 @@ Goals:
   * RGB Colors
 
 **Resources:**
-* Student Guide ( [PDF](https://github.com/treinartz/APCS.ProcessingResources/chapters/Student Guide_ Introduction to Processing Handout - Activty2.pdf), [Google Doc](https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing)
+* Student Guide ( [PDF](https://github.com/treinartz/APCS.ProcessingResources/chapters/Student Guide_ Introduction-to-Processing-Handout-Activty2.pdf), [Google Doc](https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing)
 * Optional Videos about [Pixels](https://www.youtube.com/watch?v=a562vsSI2Po), [How to Use Setup and Draw](https://www.youtube.com/watch?v=o8dffrZ86gs), and [RGB Colors](https://www.youtube.com/watch?v=n2oHuKG_BQc&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9&index=2)
 
 **Activity Description**
@@ -122,7 +122,7 @@ Using the provided handout, students can use the grid system to identify key poi
 
 **Resources**
 * Student Guide 
-* [Coding Train Vidoes] (https://www.youtube.com/watch?v=wsI6N9hfW7E&list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_) on Boolean Expressions (5.1 - 5.5) - optional
+* [Coding Train Vidoes](https://www.youtube.com/watch?v=wsI6N9hfW7E&list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_) on Boolean Expressions (5.1 - 5.5) - optional
 
 
 **Activity Description**
