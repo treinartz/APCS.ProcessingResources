@@ -48,7 +48,8 @@ Goals:
   * RGB Colors
 
 **Resources:**
-* Student Guide ([PDF], [Google Doc] (https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing))
+* Student Guide ([PDF] (APCS.ProcessingResources/chapters/Student Guide_ Introduction to Processing Handout - Activty2.pdf), [Google Doc] (https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing))
+* Optional Videos about [Pixels](https://www.youtube.com/watch?v=a562vsSI2Po), [How to Use Setup and Draw](https://www.youtube.com/watch?v=o8dffrZ86gs), and [RGB Colors](https://www.youtube.com/watch?v=n2oHuKG_BQc&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9&index=2) 
 
 **Activity Description**
 
@@ -77,9 +78,7 @@ It is recommended that the teacher do this task too initially to model how stude
 
 Give students a tour of what a typical sketch contains including how the setup() and draw() functions work.  At this point, it is ok to describe to students that any code written in the setup function runs once (when the program is run) and that the draw function runs repeatedly. 
 
-********************* note for team: should this code be in the draw or setup function?
-
-Initially, have students change the size of the sketch.  Students can do this by using the size() function.  They will need to put in two *parameters* into the size function to descsribe the length and width.  
+Initially, have students change the size of the sketch in the setup() function.  Students can do this by using the size() function.  They will need to put in two *arguments* into the size function to descsribe the length and width.  
 
 **Modeling Reading the Documentation**
 
@@ -115,12 +114,19 @@ Using the provided handout, students can use the grid system to identify key poi
 **Activity modality:** Code-along
 
 **Goals:** 
+
 * Use conditional statements in a program
 + Animate shapes in 2 dimensions on a screen
 + Put images (and if time, sounds) into a sketch
 + Initiate variables and update variables
 
+**Resources**
+* Student Guide 
+* [Coding Train Vidoes] (https://www.youtube.com/watch?v=wsI6N9hfW7E&list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_) on Boolean Expressions (5.1 - 5.5) - optional
+
+
 **Activity Description**
+
 Students re-create the bouncing DVD logo in a sketch.  Students are guided through this with an instructor the process suggested is as follows:
 + Get image on the screen
 + Get the image to move in the x direction
