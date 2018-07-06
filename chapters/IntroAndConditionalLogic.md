@@ -48,8 +48,8 @@ Goals:
   * RGB Colors
 
 **Resources:**
-* Student Guide ([PDF] (APCS.ProcessingResources/chapters/Student Guide_ Introduction to Processing Handout - Activty2.pdf), [Google Doc] (https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing))
-* Optional Videos about [Pixels](https://www.youtube.com/watch?v=a562vsSI2Po), [How to Use Setup and Draw](https://www.youtube.com/watch?v=o8dffrZ86gs), and [RGB Colors](https://www.youtube.com/watch?v=n2oHuKG_BQc&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9&index=2) 
+* Student Guide ( [PDF]:APCS.ProcessingResources/chapters/Student Guide_ Introduction to Processing Handout - Activty2.pdf, [Google Doc]: https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing)
+* Optional Videos about [Pixels: (https://www.youtube.com/watch?v=a562vsSI2Po, [How to Use Setup and Draw]: https://www.youtube.com/watch?v=o8dffrZ86gs, and [RGB Colors]: https://www.youtube.com/watch?v=n2oHuKG_BQc&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9&index=2 
 
 **Activity Description**
 
