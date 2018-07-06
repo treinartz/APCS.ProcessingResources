@@ -5,8 +5,9 @@
 [Part 2: Activities Code and Instruction](#part-2-activities-and-instruction)
 * Activity #1: [Sandwich making and algorithms](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-1-make-a-peanut-butter-and-jelly-sandwich-activity)
 * Activity #2: [Introduction to Processing](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-2-basic-introduction-to-processing)
-* Activity #3: [DVD Screensaver Code-along and Project](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-3-dvd-screensaver-code-along-and-project)
-* Activity #4: FizzBuzz App
+* Acitivty #3: [ColorBlender](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-3-colorblender)
+* Activity #4: [DVD Screensaver Code-along and Project](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-4-dvd-screensaver-code-along-and-project)
+
 
 [Part 3: Formative Assessment](#part-3-formative-assessment)
 * Around the World Activity
@@ -111,7 +112,24 @@ The task for the rest of the time is for students to re-create their image in pr
 
 Using the provided handout, students can use the grid system to identify key points on their image.  
 
-### Activity #3: DVD Screensaver Code-along and Project
+### Activity #3: ColorBlender 
+
+**Activity modality:** Individual Lab
+
+**Goals:** 
+* Introduce MouseClicked() function
+* Read and interpret documentation
+* Read and comment code
+* Use variables and conditionals
+
+**Resources:**
+* Student code
+
+
+**Activity Description**
+
+
+### Activity #4: DVD Screensaver Code-along and Project
 
 **Activity modality:** Code-along
 _Alternative modality:_ This may also work as a pair programming activity or a POGIL-type of activity.  A set of student facing directions can be found in [Google Doc](https://docs.google.com/document/d/1NAmKSAu1hne4R3ABDo6uf9MYptpzR7nx3umLUi1H6x0/edit?usp=sharing) form if you decide to have students work through this in partners rather than as a big class. 
