@@ -66,7 +66,7 @@ In this lesson, students will create an image on paper and then transfer it to p
 * Instructor may choose to model reading the documentation and using other functions to get forms on the screen.
 * Students re-create their image in Processing.
 
-<details><summary>Activity Details/summary>
+<details><summary>Activity Details</summary>
 <p>
 
 
