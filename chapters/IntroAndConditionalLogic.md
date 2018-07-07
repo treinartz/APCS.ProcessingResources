@@ -148,6 +148,9 @@ Students re-create the bouncing DVD logo in a sketch.  Students are guided throu
 + Allow students to solve the movement problems AND add movement in the y direction
 + Encourage extensions
 
+<details><summary>Activity Details</summary>
+<p>
+
 **Hook**
 Show video from "The Office" (attached here or found at [this link](https://www.youtube.com/watch?v=QOtuX0jL85Y))
 
@@ -156,7 +159,7 @@ Transition:
 
 **Get image on the screen**
 
-To do this, students need to add a 
+To do this, students need to add the DVD////////////////////////////////////////////////////////////////////////////////
 
 **Get image to move in x direction**
 + Introduce variables by declaring a global variable dvdx
@@ -186,6 +189,12 @@ To do this, students need to add a
   * Change the code so when it hits the corner something happens (colors change, sound happens?)
   * Add in interactivity (make it when it bounces, it changes color, or when you click the screen the background changes color…)
   * … other
+
+
+
+</p>
+</details>
+
   
 ### Activity #4: ColorMixer 
 
