@@ -5,8 +5,8 @@
 [Part 2: Activities Code and Instruction](#part-2-activities-and-instruction)
 * Activity #1: [Sandwich making and algorithms](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-1-make-a-peanut-butter-and-jelly-sandwich-activity)
 * Activity #2: [Introduction to Processing](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-2-basic-introduction-to-processing)
-* Acitivty #3: [ColorBlender](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-3-colorblender)
-* Activity #4: [DVD Screensaver Code-along and Project](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-4-dvd-screensaver-code-along-and-project)
+* Acitivty #3: [DVD Screensaver Code-along and Project](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-3-dvd-screensaver-code-along-and-project)
+* Activity #4: [ColorMixer](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-4-colormixer)
 
 
 [Part 3: Formative Assessment](#part-3-formative-assessment)
@@ -193,6 +193,11 @@ To do this, students need to add a
 
 
 **Activity Description**
+Students are provided some code and are asked to A) comment the exisiting code to make sense of it, and B) modify the exisiting code to function as desired.  
+
+The code provided creates a user interfaces with 6 "buttons" for a user to add or take away red, green, and blue values from a color.  The resulting color swatch is shown on the screen.  Students need to add the functionality of the clicking on the appropriate buttons.  To do this, students will use conditional statements. 
+
+[ColorMixer]: https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/ColorMixerFinalProduct.GIF
 
 
 ## Part 3: Formative Assessment
