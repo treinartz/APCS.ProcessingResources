@@ -112,24 +112,8 @@ The task for the rest of the time is for students to re-create their image in pr
 
 Using the provided handout, students can use the grid system to identify key points on their image.  
 
-### Activity #3: ColorBlender 
 
-**Activity modality:** Individual Lab
-
-**Goals:** 
-* Introduce MouseClicked() function
-* Read and interpret documentation
-* Read and comment code
-* Use variables and conditionals
-
-**Resources:**
-* Student code
-
-
-**Activity Description**
-
-
-### Activity #4: DVD Screensaver Code-along and Project
+### Activity #3: DVD Screensaver Code-along and Project
 
 **Activity modality:** Code-along
 _Alternative modality:_ This may also work as a pair programming activity or a POGIL-type of activity.  A set of student facing directions can be found in [Google Doc](https://docs.google.com/document/d/1NAmKSAu1hne4R3ABDo6uf9MYptpzR7nx3umLUi1H6x0/edit?usp=sharing) form if you decide to have students work through this in partners rather than as a big class. 
@@ -193,6 +177,23 @@ To do this, students need to add a
   * Change the code so when it hits the corner something happens (colors change, sound happens?)
   * Add in interactivity (make it when it bounces, it changes color, or when you click the screen the background changes color…)
   * … other
+  
+### Activity #4: ColorMixer 
+
+**Activity modality:** Individual Lab
+
+**Goals:** 
+* Introduce MouseClicked() function
+* Read and interpret documentation
+* Read and comment code
+* Use variables and nested conditionals
+
+**Resources:**
+* Student code
+
+
+**Activity Description**
+
 
 ## Part 3: Formative Assessment
 
