@@ -55,36 +55,20 @@ Goals:
 * Optional Videos about [Pixels](https://www.youtube.com/watch?v=a562vsSI2Po), [How to Use Setup and Draw](https://www.youtube.com/watch?v=o8dffrZ86gs), and [RGB Colors](https://www.youtube.com/watch?v=n2oHuKG_BQc&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9&index=2)
 
 **Activity Description**
-<details><summary>**CLICK ME**</summary>
+
+In this lesson, students will create an image on paper and then transfer it to processing.  This lesson calls for a mixture of instructor modeling as well as a student-driven project.  The general flow of the lesson includes the following:
+* Students make an image on graph paper
+* Students open up the Processing IDE and reference
+* Instructor introduces the setup(), draw(), and size() functions
+* Students change the size of their screen
+* Instructor introduces the background() function and models reading the documentation with students.  Students learn the concept of RGB colors.
+* Students change the background color
+* Instructor may choose to model reading the documentation and using other functions to get forms on the screen.
+* Students re-create their image in Processing.
+
+<details><summary>Activity Details/summary>
 <p>
 
-TESTING Inside this
-
-In this lesson, students will create an image on paper and then transfer it to processing.  This lesson calls for a mixture of instructor modeling as well as a student-driven project.  The general flow of the lesson includes the following:
-* Students make an image on graph paper
-* Students open up the Processing IDE and reference
-* Instructor introduces the setup(), draw(), and size() functions
-* Students change the size of their screen
-* Instructor introduces the background() function and models reading the documentation with students.  Students learn the concept of RGB colors.
-* Students change the background color
-* Instructor may choose to model reading the documentation and using other functions to get forms on the screen.
-* Students re-create their image in Processing.
-
-**Students Create their Image**
-
-</p>
-</details>
-
-
-In this lesson, students will create an image on paper and then transfer it to processing.  This lesson calls for a mixture of instructor modeling as well as a student-driven project.  The general flow of the lesson includes the following:
-* Students make an image on graph paper
-* Students open up the Processing IDE and reference
-* Instructor introduces the setup(), draw(), and size() functions
-* Students change the size of their screen
-* Instructor introduces the background() function and models reading the documentation with students.  Students learn the concept of RGB colors.
-* Students change the background color
-* Instructor may choose to model reading the documentation and using other functions to get forms on the screen.
-* Students re-create their image in Processing.
 
 **Students Create their Image**
 
@@ -131,6 +115,11 @@ With this infromation, allow students to experiment with changing thier backgrou
 The task for the rest of the time is for students to re-create their image in processing using the commands found in the reference language.  It is recommended that the teacher model an element of their own drawing to show students how to navigate the reference and how coordinates work on the display screens.
 
 Using the provided handout, students can use the grid system to identify key points on their image.  
+
+
+
+</p>
+</details>
 
 
 ### Activity #3: DVD Screensaver Code-along and Project
