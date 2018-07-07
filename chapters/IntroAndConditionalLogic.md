@@ -231,6 +231,11 @@ The code provided creates a user interfaces with 6 "buttons" for a user to add o
 ## Part 3: Formative Assessment
 
 ### Math Operations Worksheet
+10 Question worksheet ([google doc](https://docs.google.com/document/d/1ItyzrSFambR9eiSZUhoYZwsi1zq4GNAJ55N6r4wG3FI/edit?usp=sharing) || [pdf]())that covers the following:
+* int and double data types
+* Casting from doubles to ints
+* Modular arithmetic
+* Order of opreations
 
 ### Around the World Activity
 The Around the World Activity is an opportunity for students to collaboratively read and trace code while also checking their answers as they go along.  In this document, each sheet of paper has a different problem on it as well as an answer that is NOT 
