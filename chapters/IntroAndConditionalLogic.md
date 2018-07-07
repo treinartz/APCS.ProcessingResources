@@ -10,6 +10,7 @@
 
 
 [Part 3: Formative Assessment](#part-3-formative-assessment)
+* Using math operations
 * Around the World Activity
 * 10 Question Quiz
 
@@ -17,7 +18,16 @@
 
 ## Part 1 Introduction
 
-This unit is designed to be a student's first introduction to programming.  
+This unit is designed to be a student's first introduction to programming.  This section includes 4 total activities, one unplugged activity, and 3 programming-based activities.  
+
+In addition to these activities, there are three formative assessment activities.  For these formative assessments, students will need to know the following:
+* Integer division
+* Modular arithmetic
+* Order of operations
+* Conditionals and nested conditionals
+* Variables assignment
+
+
 
 
 ## Part 2 Activities and Instruction
@@ -220,9 +230,10 @@ The code provided creates a user interfaces with 6 "buttons" for a user to add o
 
 ## Part 3: Formative Assessment
 
+### Math Operations Worksheet
+
 ### Around the World Activity
 The Around the World Activity is an opportunity for students to collaboratively read and trace code while also checking their answers as they go along.  In this document, each sheet of paper has a different problem on it as well as an answer that is NOT 
-
 
 ### 10 Question Quiz
 
