@@ -197,7 +197,7 @@ Students are provided some code and are asked to A) comment the exisiting code t
 
 The code provided creates a user interfaces with 6 "buttons" for a user to add or take away red, green, and blue values from a color.  The resulting color swatch is shown on the screen.  Students need to add the functionality of the clicking on the appropriate buttons.  To do this, students will use conditional statements. 
 
-[ColorMixer]: https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/ColorMixerFinalProduct.gif
+![ColorMixer](https://media.giphy.com/media/1gSTyvtrXWZdltpdo8/giphy.gif)
 
 
 ## Part 3: Formative Assessment
