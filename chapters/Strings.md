@@ -1,7 +1,7 @@
 # Strings
 (Note, this section contains text and code from the Processing String Tutorial available here: https://processing.org/tutorials/text/)
 
-Part 1 Introduction
+[Part 1: Introduction](#part-1-introduction)
 
 Part 2 Activities, Code, & Intstruction
 
