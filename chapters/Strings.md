@@ -131,3 +131,5 @@ Variables can also be brought into a String using concatenation.
 
 int x = 10;
 String message = "The value of x is: " + x;
+
+## Section C: String Input
