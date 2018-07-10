@@ -1,7 +1,13 @@
 # Strings
 (Note, this section contains text and code from the Processing String Tutorial available here: https://processing.org/tutorials/text/)
 
-## Section A: Introduction to Creating and Drawing Strings
+Part 1 Introduction
+
+Part 2 Activities, Code, & Intstruction
+
+Part 3 Formative Assessment
+
+## Part 1 Introduction
 Any time we want to use text in our programs, or display text in our output, we are likely going to need Strings. We've seen Strings in our code before, and in this chapter we will start to understand how they work and how we can display and manipulate them in Processing.
 
 Here are some examples of ways you may have used strings in your code:
