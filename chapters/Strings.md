@@ -3,7 +3,7 @@
 
 [Part 1: Introduction](#part-1-introduction)
 
-Part 2 Activities, Code, & Intstruction
+[Part 2: Activities, Code, & Intstruction](#part-2-activities-code-instruction)
 
 Part 3 Formative Assessment
 
@@ -28,6 +28,7 @@ Clearly, this would be a royal pain in the Processing behind. It's much simpler 
 
 String sometext = "How do I make String? Type some characters between quotation marks!";
 
+## Part 2 Activities Code Instruction
 ### Displaying Text
 The easiest way to display a String is to print it in the message window. This is likely something you've done while debugging. For example, if you needed to know the horizontal mouse location, you would write:
 
