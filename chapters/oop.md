@@ -71,7 +71,9 @@ Here are more specific steps in the process:
                 // make your dogs bark!  
 
 ### Inheritance
-Activity #1:   In the following lab, students will create a class hierarchy composed of Dogs.  The term “dog” could also be a metaphor.  For example, in your school who is a “top dog?”  Who is a “lucky dog?”  Who is “sick as a” or “lucky as a” or “working like a” dog?  But we keep it simple below.
+Activity#1: With partners, students should first read about and answer the questions here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html).
+
+Activity#2:   In the following lab, students will create a class hierarchy composed of Dogs.  The term “dog” could also be a metaphor.  For example, in your school who is a “top dog?”  Who is a “lucky dog?”  Who is “sick as a” or “lucky as a” or “working like a” dog?  But we keep it simple below.
 
 Design a Dog class with the following:  
 • An instance variable for the name of the dog (a string)  
