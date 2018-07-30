@@ -48,8 +48,7 @@ https://docs.google.com/document/d/1u3BpoNlyrw3QzdOsm-rxMtCWDjyJW4Q1BfKRHbelO-c/
 
 Activity #2:  Getting started with interfaces.  In an IDE of choice or with paper, students write their own dog class that implements the Dog interface below.
 
-```
-public interface Dog {
+```public interface Dog {
 	public String getOwnerName();
 	public String getDogName();
 	public String getBark();
