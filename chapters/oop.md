@@ -56,7 +56,6 @@ Activity #2:  Getting started with interfaces.  In an IDE of choice or with pape
 ```
 Here are more specific steps in the process:
 		// name your class "yourNameDog"
-		
 		// need to implement interface Dog with 3 methods
 		
 		// instance data is all Strings ownersName, dogsName, and dogsBark
