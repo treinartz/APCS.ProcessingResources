@@ -35,7 +35,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Part 2: Activities, Code and Instruction
 
-
+Fundamental to these concepts is a thorough understanding of terms used when referring to object oriented programming.  Click here  [OOP Concepts](
+https://docs.google.com/document/d/1u3BpoNlyrw3QzdOsm-rxMtCWDjyJW4Q1BfKRHbelO-c/edit?usp=sharing) for a sheet to get you started. 
 
 
 
