@@ -13,11 +13,19 @@
 ## Part 1 Introduction
 
 To explore Advanced OOP requires understanding classes, objects, interfaces, inheritance, and concepts such as abstraction, encapsulation, and polymorphism.  We begin here with interfaces and polymorphism.
-     
-* First click here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html) to read about Interfaces and Inheritance that specifically addresses the AP Computer Science subset
-* Second, click here  [Processing Inheritance](
+
+* First, click here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html) to read about Interfaces and Inheritance that specifically addresses the AP Computer Science subset.
+* Second, take a look at some Processing code for Interfaces here [Processing Interfaces](
+https://processing.org/reference/implements.html) 
+* Third, watch this video on polymorphism, a concept used for both Interfaces and Inheritance. 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=e6eXD8DHc_A
+" target="_blank"><img src="https://www.youtube.com/watch?v=qqYOYIVrso0&t=43s.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+* Later, click here  [Processing Inheritance](
 http://learningprocessing.com/examples/chp22/example-22-01-inheritance) to see some sample code in Processing
-* Third, watch this video on Inheritance
+* Then, watch this video on Inheritance
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=e6eXD8DHc_A
 " target="_blank"><img src="http://img.youtube.com/vi/e6eXD8DHc_A/0.jpg" 
