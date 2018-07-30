@@ -1,4 +1,4 @@
-# Inheritance
+# Advanced Object Oriented Programming (OOP)
 
 [Part 1: Introduction](#part-1-introduction)
 
