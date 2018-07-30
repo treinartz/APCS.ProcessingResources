@@ -1,4 +1,4 @@
-# Advanced Object Oriented Programming (OOP)
+# Advanced Object Oriented Programming (Advanced OOP)
 
 [Part 1: Introduction](#part-1-introduction)
 
@@ -11,6 +11,8 @@
 ---
 
 ## Part 1 Introduction
+     To explore Advanced OOP requires understanding classes, objects, interfaces, inheritance, and concepts such as abstraction, encapsulation, and polymorphism.  We begin here with interfaces and polymorphism.
+     
 * First click here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html) to read about Interfaces and Inheritance that specifically addresses the AP Computer Science subset
 * Second, click here  [Processing Inheritance](
 http://learningprocessing.com/examples/chp22/example-22-01-inheritance) to see some sample code in Processing
