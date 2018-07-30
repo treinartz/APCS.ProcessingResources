@@ -109,7 +109,6 @@ https://processing.org/reference/libraries/sound/SoundFile.html) to read through
 Assessment #2:  Have students quiz each other and give examples before a brief quiz.
 
 **Inheritance**
-
 Assessment #1:  Study and respond to the following code:  
 ![Dogs](/images/dog.png)
 
