@@ -96,8 +96,7 @@ Assessment #2:  Have students quiz each other and give examples before a brief q
 
 
 ## Part 4: Projects
-For Interfaces,  have students create a snowflake based on the following Interface
-Your task is to create a class in processing that implements the Snow interface.  The Snow interface is shown below.
+For Interfaces,  have students create a snowflake class in Processing that implements the Snow interface below. 
 ```java
 public interface Snow{
  
@@ -110,6 +109,7 @@ public interface Snow{
   
 }
 ```
+The following are more specific guidelines for students:
 To do this, you will have 3 tabs in your processing Sketch:
 1. A tab with the interface (as shown below).  This interface should NEVER be edited by you.  The whole point of having an interface is that is common between everyone working on that project.
 2. A tab with your snowflake code.  This should have at a minimum 1 constructor and 3 methods (specifically, the three methods outlined in the interface.  The first line of this code should be 
