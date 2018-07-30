@@ -36,6 +36,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Part 2: Activities, Code and Instruction
 
+#Interfaces
 Activity #1:  Fundamental to these concepts is a thorough understanding of terms used when referring to object oriented programming.  Click here  [OOP Concepts](
 https://docs.google.com/document/d/1u3BpoNlyrw3QzdOsm-rxMtCWDjyJW4Q1BfKRHbelO-c/edit?usp=sharing) for a sheet to get you started. 
 
@@ -75,6 +76,33 @@ Here are more specific steps in the process:
 		}
 ```
                 // make your dogs bark!
+
+# Inheritance
+In the following lab, students will create a class hierarchy composed of Dogs.  The term “dog” could also be a metaphor.  For example, in your school who is a “top dog?”  Who is a “lucky dog?”  Who is “sick as a” or “lucky as a” or “working like a” dog?  But we keep it simple below.
+
+Design a Dog class with the following:
+• An instance variable for the name of the dog (a string)
+• An instance variable for the age of the dog (a string)
+• A constructor and appropriate accessors (getMethods()) and mutators (setMethods()) . 
+• A toString method that displays the Dog's name and the Dog’s age.
+
+Then, design a BigDog class that extends the Dog class. The BigDog class should have the following 
+members:
+• A field (instance variable) for the dog’s weight (an int)
+• A constructor and appropriate accessors and mutators.
+• A toString method that overrides the toString method in the base class. The BigDog class's toString 
+method should display only the Dog's name and the Dog’s weight.
+
+Design a SmallDog class that extends the Dog class. The SmallDog class should have the following 
+members:
+• A field for the dog’s bark (a String)
+• A constructor and appropriate accessors and mutators
+• A toString method that overrides the toString method in the base class. The SmallDog class's toString 
+method should display only the dog's name and the dog's bark sound.
+
+Demonstrate the classes in a program (Runner) that has a Dog array. Assign various Dog, BigDog, and 
+SmallDog objects to the array elements. The program should then step through the array, calling each 
+object's toString method.
 
 ## Part 3: Formative Assessment
 Assessment #1:  For the dog interface activity, you might collect all student dogs in one runner and demonstrate to class what all the dogs "say."  
