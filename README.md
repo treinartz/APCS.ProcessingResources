@@ -9,7 +9,7 @@ AP Computer Science A is a course offered by the College Board that allows stude
 
 While there are many different approaches and tools for teaching AP Computer Science A (AP CSA), this book is intended to provide teachers with four different modules/units/chapters for AP CSA. The chapters will include topics typically found on the APCS exams in May, and will generally consist of a teaching guide, practice AP questions, and a project prompt for students. 
 
-Chapters are listed below!
+This is a work in progress, but initial chapters are listed below!
 
 [Introduction and Conditional Logic](https://github.com/treinartz/APCS.Processing.Fellowship.Resources/blob/gh-pages/chapters/IntroAndConditionalLogic.md)
 
