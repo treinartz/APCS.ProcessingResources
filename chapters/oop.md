@@ -34,17 +34,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-
-
-
-
-
 ## Part 2: Activities, Code and Instruction
 
 Activity #1:  Fundamental to these concepts is a thorough understanding of terms used when referring to object oriented programming.  Click here  [OOP Concepts](
@@ -76,7 +65,7 @@ Here are more specific steps in the process:
 		//exchange your class with at least three others
 		
 		// write runner like this:
-```
+```java
 		List<Dog> csKennel = new ArrayList<Dog>();
 		csKennel.add(new JoansDog("Joanie", "2String()", "arf"));
 		csKennel.add(new RogersDog("Roger", "Hershey", "GRRRRR!"));
