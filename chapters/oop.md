@@ -111,7 +111,7 @@ Assessment #2:  Have students quiz each other and give examples before a brief q
 **Inheritance**
 
 Assessment #1:  Study and respond to the following code:  
-![Dogs](/images/dog.PNG)
+![Dogs](/images/dog.png)
 
 
 
