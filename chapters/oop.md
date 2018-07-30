@@ -100,6 +100,7 @@ SmallDog objects to the array elements. The program should then step through the
 object's toString method.
 
 ## Part 3: Formative Assessment
+**Interfaces:**
 Assessment #1:  For the dog interface activity, you might collect all student dogs in one runner and demonstrate to class what all the dogs "say."  
 
 Or, in an audio program like Audacity, have students create an audio file of how their dog sounds. Then in Processing, using those sound files, your abundant spare time, and this Processing code  [Sound files](
@@ -107,7 +108,10 @@ https://processing.org/reference/libraries/sound/SoundFile.html) to read through
 
 Assessment #2:  Have students quiz each other and give examples before a brief quiz.
 
+**Inheritance**
 
+4. Study and respond to the following code:  
+![Dogs](/images/SampleAssignmentSimple2.PNG)
 
 
 
@@ -119,7 +123,7 @@ Assessment #2:  Have students quiz each other and give examples before a brief q
 
 
 ## Part 4: Projects
-For Interfaces,  have students create a snowflake class in Processing that implements the Snow interface below. 
+For **Interfaces**,  have students create a snowflake class in Processing that implements the Snow interface below. 
 ```java
 public interface Snow{
  
@@ -147,6 +151,7 @@ Additionally, please have the following constructors:
 a no-argument constructor which sets the starting x-position to a random number between 0 and the width of the screen
 A parameterized constructor which allows the client to set the starting x-position of the snowflake
 
+For **Inheritance**,  In Processing, have students create a hierarchy of classes that represent a dog show.  For example, some dogs jump. others spin, and yet others roll over.  Here, each new dog class will have a method that represents the dog's special trick.  This project may be best to assign early as learning about physics and movement in Processing can be time comsuming.
 
 
 
