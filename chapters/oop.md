@@ -20,7 +20,7 @@ https://processing.org/reference/implements.html)
 * Third, watch this video on polymorphism, a concept used for both Interfaces and Inheritance. 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=e6eXD8DHc_A
-" target="_blank"><img src="https://www.youtube.com/watch?v=qqYOYIVrso0&t=43s.jpg" 
+" target="_blank"><img src="https://img.youtube.com/vi/qqYOYIVrso0/hqdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 * Later, click here  [Processing Inheritance](
