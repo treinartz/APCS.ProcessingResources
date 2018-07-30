@@ -9,6 +9,7 @@
 [Part 4: Projects](#part-4-projects)
 
 ---
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 ## Part 1 Introduction
 
