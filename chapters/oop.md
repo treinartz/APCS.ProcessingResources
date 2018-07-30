@@ -96,7 +96,36 @@ Assessment #2:  Have students quiz each other and give examples before a brief q
 
 
 ## Part 4: Projects
+For Interfaces,  have students create a snowflake based on the following Interface
+Your task is to create a class in processing that implements the Snow interface.  The Snow interface is shown below.
+```java
+public interface Snow{
+ 
+  public void display();
+  
+  public void fall();
+  	
+  	public void fall(float speed);
+  
+  
+}
+```
+To do this, you will have 3 tabs in your processing Sketch:
+1. A tab with the interface (as shown below).  This interface should NEVER be edited by you.  The whole point of having an interface is that is common between everyone working on that project.
+2. A tab with your snowflake code.  This should have at a minimum 1 constructor and 3 methods (specifically, the three methods outlined in the interface.  The first line of this code should be 
 
+public class SnowflakeYourName implements Snow{
+
+3. A tab with your runner class.  This should have a setup and draw method it should be what you use to make sure your Snowflake class is working as you expect.
+
+Details for the Snowflake class you create:
+Your class name can be named whatever you like, but please include your initials in the class name.  
+Since your snowflake will extend the Snow class, you MUST have a display() method,  fall() method, and a fall(float speed) method.  
+Things to keep in mind:
+This will be combined with everyone else’s snowflakes so you might want to decide how yours will act once it reaches the bottom
+Additionally, please have the following constructors:
+a no-argument constructor which sets the starting x-position to a random number between 0 and the width of the screen
+A parameterized constructor which allows the client to set the starting x-position of the snowflake
 
 
 
