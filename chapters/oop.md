@@ -118,7 +118,7 @@ Assessment #2:  Have students quiz each other and give examples before a brief q
 
 
 
-
+<span style="color:red">some **This is Red Bold.** text</span>
 
 
 
