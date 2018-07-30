@@ -51,21 +51,14 @@ public interface Dog {
 ```
 Here are more specific steps in the process:
 
-		// name your class "yourNameDog"
-		
-		// need to implement interface Dog with 3 methods
-		
-		// instance data is all Strings ownersName, dogsName, and dogsBark
-		
-		// class has a constructor that takes an ownersname, dogname, and dogbark
-		
-		// toString() needs to return the instance data like this:
-		
-		// return ownerName + "'s dog "+dogName +" says "+ dogBark;
-		
-		//exchange your class with at least three others
-		
-		// write runner like this:
+		// name your class "yourNameDog"  
+		// need to implement interface Dog with 3 methods  
+		// instance data is all Strings ownersName, dogsName, and dogsBark  
+		// class has a constructor that takes an ownersname, dogname, and dogbark  
+		// toString() needs to return the instance data like this:  
+		// return ownerName + "'s dog "+dogName +" says "+ dogBark;  
+		//exchange your class with at least three others  
+		// write runner like this:  
 ```java
 		List<Dog> csKennel = new ArrayList<Dog>();
 		csKennel.add(new JoansDog("Joanie", "2String()", "arf"));
@@ -75,7 +68,7 @@ Here are more specific steps in the process:
 			System.out.println(d);
 		}
 ```
-                // make your dogs bark!
+                // make your dogs bark!  
 
 ### Inheritance
 In the following lab, students will create a class hierarchy composed of Dogs.  The term “dog” could also be a metaphor.  For example, in your school who is a “top dog?”  Who is a “lucky dog?”  Who is “sick as a” or “lucky as a” or “working like a” dog?  But we keep it simple below.
@@ -88,17 +81,17 @@ Design a Dog class with the following:
 
 Then, design a BigDog class that extends the Dog class. The BigDog class should have the following 
 members:
-• A field (instance variable) for the dog’s weight (an int)
-• A constructor and appropriate accessors and mutators.
+• A field (instance variable) for the dog’s weight (an int)  
+• A constructor and appropriate accessors and mutators.  
 • A toString method that overrides the toString method in the base class. The BigDog class's toString 
-method should display only the Dog's name and the Dog’s weight.
+method should display only the Dog's name and the Dog’s weight.  
 
 Design a SmallDog class that extends the Dog class. The SmallDog class should have the following 
 members:
-• A field for the dog’s bark (a String)
-• A constructor and appropriate accessors and mutators
+• A field for the dog’s bark (a String)  
+• A constructor and appropriate accessors and mutators  
 • A toString method that overrides the toString method in the base class. The SmallDog class's toString 
-method should display only the dog's name and the dog's bark sound.
+method should display only the dog's name and the dog's bark sound.  
 
 Demonstrate the classes in a program (Runner) that has a Dog array. Assign various Dog, BigDog, and 
 SmallDog objects to the array elements. The program should then step through the array, calling each 
@@ -118,7 +111,7 @@ Assessment #2:  Have students quiz each other and give examples before a brief q
 
 
 
-<span style="color:red">some **This is Red Bold.** text</span>
+
 
 
 
@@ -129,12 +122,8 @@ For Interfaces,  have students create a snowflake class in Processing that imple
 public interface Snow{
  
   public void display();
-  
   public void fall();
-  	
-  	public void fall(float speed);
-  
-  
+  public void fall(float speed);
 }
 ```
 The following are more specific guidelines for students:
@@ -149,8 +138,9 @@ public class SnowflakeYourName implements Snow{
 Details for the Snowflake class you create:
 Your class name can be named whatever you like, but please include your initials in the class name.  
 Since your snowflake will extend the Snow class, you MUST have a display() method,  fall() method, and a fall(float speed) method.  
+
 Things to keep in mind:
-This will be combined with everyone else’s snowflakes so you might want to decide how yours will act once it reaches the bottom
+This will be combined with everyone else’s snowflakes so you might want to decide how yours will act once it reaches the bottom.
 Additionally, please have the following constructors:
 a no-argument constructor which sets the starting x-position to a random number between 0 and the width of the screen
 A parameterized constructor which allows the client to set the starting x-position of the snowflake
