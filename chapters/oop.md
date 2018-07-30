@@ -57,34 +57,34 @@ public interface Dog {
 ```
 Here are more specific steps in the process:
 		// name your class "yourNameDog"
+		
 		// need to implement interface Dog with 3 methods
+		
 		// instance data is all Strings ownersName, dogsName, and dogsBark
+		
 		// class has a constructor that takes an ownersname, dogname, and dogbark
+		
 		// toString() needs to return the instance data like this:
+		
 		// return ownerName + "'s dog "+dogName +" says "+ dogBark;
+		
 		//exchange your class with at least three others
+		
 		// write runner like this:
-
-ArrayList<Integer> seq = new ArrayList<Integer>();
-		for (int k = 1; k <= 6; k++) {
-			// seq.add(new Integer(k*k+3));
-		}
-		// System.out.println(seq);
-
-		// DRRDog myDog = new DRRDog("DRR", "2String()", "data!");
-		// System.out.println(myDog);
-
+```
 		List<Dog> csKennel = new ArrayList<Dog>();
-		csKennel.add(new DRRDog("DRR", "2String()", "arf"));
+		csKennel.add(new JoansDog("Joanie", "2String()", "arf"));
 		csKennel.add(new RogersDog("Roger", "Hershey", "GRRRRR!"));
 
 	for (Dog d : csKennel) {
 			System.out.println(d);
 		}
+```
                 // make your dogs bark!
 
 ## Part 3: Formative Assessment
 Assessment #1:  For the dog interface activity, you might collect all student dogs in one runner and demonstrate to class what all the dogs "say."  
+
 Or, in an audio program like Audacity, have students create an audio file of how their dog sounds. Then in Processing, using those sound files, your abundant spare time, and this Processing code  [Sound files](
 https://processing.org/reference/libraries/sound/SoundFile.html) to read through each file to hear the sounds.
 
