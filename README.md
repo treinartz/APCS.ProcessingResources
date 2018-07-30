@@ -15,7 +15,7 @@ Chapters are listed below!
 
 [Strings](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/Strings.md)
 
-[Inheritance](https://github.com/treinartz/pFellowship/blob/gh-pages/chapters/Inheritance.md)
+[Advanced Obhect Oriented Programming](https://github.com/treinartz/pFellowship/blob/gh-pages/chapters/Inheritance.md)
 
 [2DArrays](https://github.com/treinartz/pFellowship/blob/gh-pages/2DArrays.md)
 
