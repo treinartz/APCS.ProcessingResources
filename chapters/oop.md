@@ -150,7 +150,11 @@ Additionally, please have the following constructors:
 a no-argument constructor which sets the starting x-position to a random number between 0 and the width of the screen
 A parameterized constructor which allows the client to set the starting x-position of the snowflake
 
-For **Inheritance**,  and in Processing, have students create a hierarchy of classes that represent a dog show.  For example, some dogs jump. others spin, and yet others roll over.  Here, each new dog class will have a method that represents the dog's special trick.  This project may be best to assign early as learning about physics and movement in Processing can be time comsuming.
+For **Inheritance**,  and in Processing, have students create a hierarchy of classes that represent a dog show.  For example, some dogs jump. others spin, and yet others roll over.  Here, each new dog class will have a method that represents the dog's special trick.  This project may be best to assign early as learning about physics and movement in Processing can be time comsuming.  Here is a sample project:
+
+ [Dog Show!](https://csp2017-2018.github.io/pSampleWebAssignment/) 
+
+
 
 
 
