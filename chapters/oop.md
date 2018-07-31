@@ -72,6 +72,8 @@ Here are more specific steps in the process:
 		}
 ```
                 // make your dogs bark!  
+</p>
+</details>
 
 ### Inheritance
 Activity#1: With partners, students should first read about and answer the questions here [Advanced OOP](https://runestone.academy/runestone/static/JavaReview/index.html).
