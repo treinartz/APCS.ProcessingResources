@@ -120,9 +120,13 @@ Assessment #2:  Have students quiz each other and give examples before a brief q
 
 **Inheritance**
 Assessment #1:  Study and respond to the following code:  
+
+<details><summary>Activity Details</summary>
+<p>
 ![Dogs](/images/dog.png)
 
-
+</p>
+</details>
 
 
 
@@ -141,6 +145,9 @@ public interface Snow{
   public void fall(float speed);
 }
 ```
+<details><summary>Activity Details</summary>
+<p>
+	
 The following are more specific guidelines for students:
 To do this, you will have 3 tabs in your processing Sketch:
 1. A tab with the interface (as shown below).  This interface should NEVER be edited by you.  The whole point of having an interface is that is common between everyone working on that project.
@@ -159,6 +166,9 @@ This will be combined with everyone else’s snowflakes so you might want to dec
 Additionally, please have the following constructors:
 a no-argument constructor which sets the starting x-position to a random number between 0 and the width of the screen
 A parameterized constructor which allows the client to set the starting x-position of the snowflake
+
+</p>
+</details>
 
 For **Inheritance**,  and in Processing, have students create a hierarchy of classes that represent a dog show.  For example, some dogs jump. others spin, and yet others roll over.  Here, each new dog class will have a method that represents the dog's special trick.  This project may be best to assign early as learning about physics and movement in Processing can be time comsuming.  Here is a sample project:
 
