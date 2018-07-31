@@ -80,6 +80,8 @@ Activity#1: With partners, students should first read about and answer the quest
 
 Activity#2:   In the following lab, students will create a class hierarchy composed of Dogs.  The term “dog” could also be a metaphor.  For example, in your school who is a “top dog?”  Who is a “lucky dog?”  Who is “sick as a” or “lucky as a” or “working like a” dog?  But we keep it simple below.
 
+<details><summary>Activity Details</summary>
+<p>
 Design a Dog class with the following:  
 • An instance variable for the name of the dog (a string)  
 • An instance variable for the age of the dog (a string)  
@@ -103,6 +105,9 @@ method should display only the dog's name and the dog's bark sound.
 Demonstrate the classes in a program (Runner) that has a Dog array. Assign various Dog, BigDog, and 
 SmallDog objects to the array elements. The program should then step through the array, calling each 
 object's toString method.
+
+</p>
+</details>
 
 ## Part 3: Formative Assessment
 **Interfaces:**
