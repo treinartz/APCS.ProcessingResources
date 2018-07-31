@@ -49,6 +49,9 @@ public interface Dog {
 	public String getBark();
 }
 ```
+
+<details><summary>Activity Details</summary>
+<p>
 Here are more specific steps in the process:
 
 		// name your class "yourNameDog"  
