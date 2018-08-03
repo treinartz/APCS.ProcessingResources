@@ -17,6 +17,7 @@ Part 3 Formative Assessment
 
 Here are all the steps together:
 
+'''
 PFont f;                           // STEP 1 Declare PFont variable
   
 void setup() {
@@ -33,6 +34,7 @@ void draw() {
 Fonts can also be created using "Tools" → "Create Font." This will create and place a VLW font file in your data directory which you can load into a PFont object using loadFont().
 
 f = loadFont("ArialMT-16.vlw");
+'''
 
 ## LAB EXERCISE 1
 Learning Objectives
