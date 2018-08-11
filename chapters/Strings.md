@@ -9,13 +9,17 @@ Part 3 Formative Assessment
 
 ## Part 1 Introduction
 
+[https://processing.org/reference/String.html](Processing string documentation)
+[https://docs.oracle.com/javase/6/docs/api/java/lang/String.html] (Java string documentation)
 
-### What is a String?
+[https://www.youtube.com/watch?v=NLzne4XaR3M ](Video: Introduction to Strings and Drawing Text)
+
+[https://processing.org/tutorials/text/](Processing string tutorial)
 
 
 ## Part 2 Activities Code Instruction
 
-Here are all the steps together:
+Here are all of the steps needed to draw a string on the screen.
 
 ```
 PFont f;                           // STEP 1 Declare PFont variable
@@ -31,7 +35,6 @@ void draw() {
   fill(0);                         // STEP 4 Specify font color 
   text("Hello Strings!",10,100);   // STEP 5 Display Text
 }
-Fonts can also be created using "Tools" → "Create Font." This will create and place a VLW font file in your data directory which you can load into a PFont object using loadFont().
 
 f = loadFont("ArialMT-16.vlw");
 ```
@@ -55,6 +58,7 @@ Modify the code to change
 Here is an example of a completed lab (note yours will look different depending on the font and colors you chose)
 ![The String "Hello Strings" in purple parchment font on a light blue background](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/HelloString2.png)
 
+## LAB EXERCISE 2
 
 ## Section B: Manipulating Strings
 It appears from the above that a String is nothing more than a list of characters in between quotes. Nevertheless, this is only the data of a String. We must remember that a String is an object with methods (which you can find on the reference page.) This is just like how we learned in the Pixels tutorial that a PImage stores both the data associated with an image as well as the functionality: copy(), loadPixels(), etc.
