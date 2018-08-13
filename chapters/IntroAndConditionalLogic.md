@@ -24,7 +24,7 @@ In addition to these activities, there are three formative assessment activities
 * Modular arithmetic
 * Order of operations
 * Conditionals and nested conditionals
-* Variables assignment
+* Declaring and intializing variables
 
 
 
