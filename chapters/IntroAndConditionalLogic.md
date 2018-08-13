@@ -10,8 +10,7 @@
 
 
 [Part 3: Formative Assessment](#part-3-formative-assessment)
-* Using math operations
-* Around the World Activity
+* Math operations worksheet
 * 10 Question Quiz
 
 ---
@@ -236,9 +235,6 @@ The code provided creates a user interfaces with 6 "buttons" for a user to add o
 * Casting from doubles to ints
 * Modular arithmetic
 * Order of opreations
-
-### Around the World Activity
-The Around the World Activity is an opportunity for students to collaboratively read and trace code while also checking their answers as they go along.  In this document, each sheet of paper has a different problem on it as well as an answer that is NOT 
 
 ### 10 Question Quiz
 This quiz has 6 questions asking students to trace code and 4 questions asking students to write code using variables, order of operations, and conditionals.
