@@ -61,7 +61,7 @@ Goals:
   * RGB Colors
 
 **Resources:**
-* Student Guide ( [PDF](https://github.com/treinartz/APCS.ProcessingResources/chapters/Student Guide_ Introduction-to-Processing-Handout-Activty2.pdf), [Google Doc](https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing)
+* Student Guide ( [PDF](https://github.com/treinartz/APCS.ProcessingResources/chapters/Student Guide_Introduction-to-Processing-Handout-Activty2.pdf), [Google Doc](https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing)
 * Optional Videos about [Pixels](https://www.youtube.com/watch?v=a562vsSI2Po), [How to Use Setup and Draw](https://www.youtube.com/watch?v=o8dffrZ86gs), and [RGB Colors](https://www.youtube.com/watch?v=n2oHuKG_BQc&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9&index=2)
 
 **Activity Description**
@@ -243,7 +243,7 @@ The Around the World Activity is an opportunity for students to collaboratively 
 ### 10 Question Quiz
 This quiz has 6 questions asking students to trace code and 4 questions asking students to write code using variables, order of operations, and conditionals.
 
-([google doc](https://docs.google.com/document/d/1Dkc2FNlJKjdvzf0MUbdHv5XwgSQgS8qKSP1_TGEKrk8/edit?usp=sharing) || [pdf]())
+([google doc](https://docs.google.com/document/d/1Dkc2FNlJKjdvzf0MUbdHv5XwgSQgS8qKSP1_TGEKrk8/edit?usp=sharing) || [pdf](https://github.com/treinartz/APCS.ProcessingResources/chapters/10-Question_Quiz.pdf))
 
 
 
