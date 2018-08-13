@@ -241,8 +241,9 @@ The code provided creates a user interfaces with 6 "buttons" for a user to add o
 The Around the World Activity is an opportunity for students to collaboratively read and trace code while also checking their answers as they go along.  In this document, each sheet of paper has a different problem on it as well as an answer that is NOT 
 
 ### 10 Question Quiz
+This quiz has 6 questions asking students to trace code and 4 questions asking students to write code using variables, order of operations, and conditionals.
 
-
+([google doc](https://docs.google.com/document/d/1Dkc2FNlJKjdvzf0MUbdHv5XwgSQgS8qKSP1_TGEKrk8/edit?usp=sharing) || [pdf]())
 
 
 
