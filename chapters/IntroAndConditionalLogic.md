@@ -144,7 +144,7 @@ _Alternative modality:_ This may also work as a pair programming activity or a P
 + Initiate variables and update variables
 
 **Resources**
-* Student Guide 
+* Student Guide ([google doc](https://docs.google.com/document/d/1NAmKSAu1hne4R3ABDo6uf9MYptpzR7nx3umLUi1H6x0/edit?usp=sharing))
 * [Coding Train Videos](https://www.youtube.com/watch?v=wsI6N9hfW7E&list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_) on Boolean Expressions (5.1 - 5.5) - optional
 
 
