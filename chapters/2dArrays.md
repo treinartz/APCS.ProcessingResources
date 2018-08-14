@@ -115,6 +115,7 @@ boolean closeColor(color c1, color c2){
 
 ![A cat on a green screen](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/cat1.jpg)
 ![An explosion](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/explode.jpg)
+
 ![The explosion as the background of the cat picture](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/greendone.png)
 
 ## SUMMATIVE ASSESSMENT: Instagram Filter
