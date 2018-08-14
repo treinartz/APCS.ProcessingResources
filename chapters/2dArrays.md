@@ -82,8 +82,12 @@ Now try the following modifications to portions of an image
 
 ![A picture of a beach with a palm tree](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/beach.jpg)
 ![The same beach with a pink sky for sunset](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/sunset.png)
-2. Mirror the top half of an image
-3. Mirror an image horizontally
+
+2. Duplicate the top half of the image on the bottom
+![A picture of a beach with a palm tree](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/stack.png)
+
+3. Mirror the top half of the image
+![A picture of a beach with a palm tree](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/reflect.png)
 
 ## LAB #3:
 
