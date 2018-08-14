@@ -10,25 +10,36 @@ This tutorial contains a lot of information, but walks through how to create an 
 [https://www.youtube.com/watch?v=15aqFQQVBWU] Code.org video about pixels
 
 ## LAB #1: Modify all the pixels in an image
-PImage img;
+
+The code below modifies all of the pixels in an image. Load an image from your computer and see if you can figure out what changes when this code is run.
+
+```
+PImage img; // Declare the image object
 
 void setup() {
   size(200,200);
-  img = loadImage("dino.jpg");
+  img = loadImage("dino.jpg");  // load the image in setup() - change the name to reflect your image
+  // NOTE: Make sure your image is in the same folder as your code
 }
 
 void draw() {
-  //image(img,0,0);
-  loadPixels();
-  for(int i=0; i<pixels.length; i++){
-    float r = red(img.pixels[i]);
+  loadPixels();  // load all the pixels from your image into the pixels[] array
+  for(int i=0; i<pixels.length; i++){  // loop through every pixel
+    float r = red(img.pixels[i]);      // get the red, green, and blue values for each pixel
     float g = green(img.pixels[i]);
     float b = blue(img.pixels[i]);
     r = r * 0.5;
     pixels[i] =  color(r,g,b);     
   }
-  updatePixels();  
+  updatePixels();  // redraw the picture with modified pixels
 }
+```
+
+Now that you've seen how to modify all the pixels in a picture, try each of the following modifications on the same picture. 
+1. Remove all the blue from each pixel
+2. Modify each pixel to have the maximum amount of green
+3. Make an image appear "through rose colored glasses" by modifying the r, g, b values to give the image a rosey color
+4. Convert an image to grayscale by averaging the r, g, and b values for each pixel and using the new value for all three color components
 
 ## LAB #2: 
 
