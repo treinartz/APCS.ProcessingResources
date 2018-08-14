@@ -22,3 +22,4 @@ This is a work in progress, but initial chapters are listed below!
 
 
 
+We have provided currated links to resources, but this is not meant to be a comprehensive curriculum. Our materials are meant to be teacher focused and include supplementary materials (videos and assessments) that could be integrated into a CS A course. These resources focus on activities that take advantage of the features of processing while reinforcing concepts that are important for the CS A exam.
