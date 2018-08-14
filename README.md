@@ -17,7 +17,7 @@ This is a work in progress, but initial chapters are listed below!
 
 [Advanced Object Oriented Programming](https://github.com/treinartz/pFellowship/blob/gh-pages/chapters/oop.md)
 
-[2DArrays](https://github.com/treinartz/pFellowship/blob/gh-pages/2dArrays.md)
+[2DArrays](https://github.com/treinartz/pFellowship/blob/gh-pages/chapters/2dArrays.md)
 
 
 
