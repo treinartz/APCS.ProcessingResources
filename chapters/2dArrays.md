@@ -79,6 +79,8 @@ void draw() {
 ```
 Now try the following modifications to portions of an image
 1. Download this image of a beach. Modify only the top portion so that the sky looks like a sunset
+
+
 2. Mirror the top half of an image
 3. Mirror an image horizontally
 
