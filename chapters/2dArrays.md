@@ -42,7 +42,7 @@ Now that you've seen how to modify all the pixels in a picture, try each of the 
 3. Make an image appear "through rose colored glasses" by modifying the r, g, b values to give the image a rosey color
 4. Convert an image to grayscale by averaging the r, g, and b values for each pixel and using the new value for all three color components
 
-## LAB #2:
+## LAB #2: Modifying pixles by location
 In the previous lab we saw how we could uniformly modify all the pixels in an image. However, often, we want to modify a pixel depending on it's location in the image. In this case, we can use the x and y coordinates of a pixel to locate it in the source image. 
 
 Run this code and look at how it modifies your image. Make sure you understand how the loops are working
@@ -89,10 +89,23 @@ Now try the following modifications to portions of an image
 
 3. Mirror the top half of the image
 
-![A picture of a beach with a palm tree](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/reflect.png)
+![A mirrored picture of a beach with a palm tree](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/reflect.png)
+
+4. Help this dog caught in the act of stealing the Thanksgiving turkey maintain his anonymity by covering his face with a square.
+
+![A dog stealing a turkey](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/dog.jpg)
+![A dog stealing a turkey with a box over his face](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/baddog.png)
+
 
 ## LAB #3:
 
 ## SUMMATIVE ASSESSMENT: Instagram Filter
 
+## Follow-Up Additional Topics and Free Response Questions
+This unit on images introduces the idea of nested loops and thinking about 2D spaces. You will probably want to do some additional coverage of 2D arrays including problems that mirror those most frequently found on the AP exam. Topics to cover include:
+* Declaring 2D arrays
+* Iterating both column-major and row-major 
+* Determining the size of a 2D array
+
+Here are some past free response questions that will allow students to practice these skills
 
