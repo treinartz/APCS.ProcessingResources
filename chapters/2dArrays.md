@@ -42,7 +42,45 @@ Now that you've seen how to modify all the pixels in a picture, try each of the 
 3. Make an image appear "through rose colored glasses" by modifying the r, g, b values to give the image a rosey color
 4. Convert an image to grayscale by averaging the r, g, and b values for each pixel and using the new value for all three color components
 
-## LAB #2: 
+## LAB #2:
+In the previous lab we saw how we could uniformly modify all the pixels in an image. However, often, we want to modify a pixel depending on it's location in the image. In this case, we can use the x and y coordinates of a pixel to locate it in the source image. 
+
+Run this code and look at how it modifies your image. Make sure you understand how the loops are working
+
+```
+PImage img;
+
+void setup() {
+  size(200,200);
+  img = loadImage("dino.jpg"); // replace "dino.jpg" with an image of your choice
+}
+
+void draw() {
+  image(img,0,0);
+  loadPixels();
+  // Loop through every pixel column
+  for (int x = 0; x < width; x++) {
+    // Loop through every pixel row
+    for (int y = 0; y < height; y++) {
+      // Use the formula to find the 1-dimesional location
+      int loc = x + y * width;
+      float r = red(img.pixels[loc]);
+      float g = green(img.pixels[loc]);
+      float b = blue(img.pixels[loc]);
+      if (x % 2 == 0) { // If we are an even column
+        pixels[loc] = color(255, g, b);
+      } else {          // If we are an odd column
+        pixels[loc] = color(r, g, 255);
+      }
+    }
+  }
+  updatePixels();
+}
+```
+Now try the following modifications to portions of an image
+1. Download this image of a beach. Modify only the top portion so that the sky looks like a sunset
+2. Mirror the top half of an image
+3. Mirror an image horizontally
 
 ## LAB #3:
 
