@@ -127,7 +127,23 @@ boolean closeColor(color c1, color c2){
 
 ![A collage of animal pictures](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/collage.jpg)
 
-## SUMMATIVE ASSESSMENT: Instagram Filter
+## SUMMATIVE ASSESSMENT: Instagram Filter or Movie Poster
+Use everything you have learned about manipulating images to choose one of the projects below
+
+### Movie Poster
+For this project option, your group should make a movie poster. This poster can be for any school appropriate movie real or imagined (if you are unsure if your movie qualifies, just ask). 
+
+The required elements for this project are:
+* You must use the green screen technique for the background and feature your group members (or other friends/classmates) with an interesting or relevant background
+* There should be a title for the movie and a tag line
+* Your poster should also employ at least one other technique or include a minimum of one other image. Please ask if you are unsure that your poster meets these minimum requirements. 
+
+
+### Instagram Filter
+You must add at least significant three elements to your filter. These can be color changes or distortions of part of the image, or it can be other images that are added on top. You will need to do a good, quality job of adding these elements. You will need to show your filter applied to a picture of your group.
+
+The elements you add must make sense together (they should not just be random).  The placement on the  image must also make sense. Your filter does not need to work for ALL images. 
+
 
 ## Follow-Up Additional Topics and Free Response Questions
 This unit on images introduces the idea of nested loops and thinking about 2D spaces. You will probably want to do some additional coverage of 2D arrays including problems that mirror those most frequently found on the AP exam. Topics to cover include:
