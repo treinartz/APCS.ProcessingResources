@@ -118,6 +118,11 @@ boolean closeColor(color c1, color c2){
 
 ![The explosion as the background of the cat picture](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/greendone.png)
 
+2. Put a bowtie on Grumpy Cat
+
+![Grumpy Cat](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/grumpy.jpg)
+![Grumpy Cat with a bowtie](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/grumpy2.png)
+
 ## SUMMATIVE ASSESSMENT: Instagram Filter
 
 ## Follow-Up Additional Topics and Free Response Questions
