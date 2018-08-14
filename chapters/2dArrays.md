@@ -1,4 +1,4 @@
-# 2dArrays
+# Introduction to 2D Arrays using Images
 
 [https://processing.org/tutorials/pixels/] (Processing tutorial on images and pixels)
 
@@ -97,7 +97,25 @@ Now try the following modifications to portions of an image
 ![A dog stealing a turkey with a box over his face](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/baddog.png)
 
 
-## LAB #3:
+## LAB #3: Multiple Images
+Once you understand how to manipulate the pixels in one image, you can copy pixels from one picture to another. 
+
+1. The code below compares two colors and returns true if they are "similar". Take a look at the code and make sure you understand how it is working. How could you adjust the threshold if to make the comparison more or less sensitive? Once you understand how the code works, use it to replace the green screen behind the cat with the explosion picture. 
+
+```
+boolean closeColor(color c1, color c2){
+    double distance = (red(c1) - red(c2))*(red(c1) - red(c2)) + (green(c1) - green(c2))*(green(c1) - green(c2)) + (blue(c1) - blue(c2))*(blue(c1) - blue(c2));
+    if(distance < 250){
+        return true;
+    }else{
+        return false;
+    }
+}
+```
+
+![A cat on a green screen](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/cat1.jpg)
+![An explosion](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/explode.jpg)
+![The explosion as the background of the cat picture](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/greendone.png)
 
 ## SUMMATIVE ASSESSMENT: Instagram Filter
 
