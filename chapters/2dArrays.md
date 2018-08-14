@@ -79,6 +79,7 @@ void draw() {
 ```
 Now try the following modifications to portions of an image
 1. Download the image of a beach on the left. Modify only the top portion so that the sky looks like a sunset (see the image on the right)
+
 ![A picture of a beach with a palm tree](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/beach.jpg)
 ![The same beach with a pink sky for sunset](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/sunset.png)
 2. Mirror the top half of an image
