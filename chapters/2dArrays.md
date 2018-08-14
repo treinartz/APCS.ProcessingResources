@@ -123,6 +123,10 @@ boolean closeColor(color c1, color c2){
 ![Grumpy Cat](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/grumpy.jpg)
 ![Grumpy Cat with a bowtie](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/grumpy2.png)
 
+3. Create a collage using at least five images. To do this, first write a method that will allow you to place one image on another at a specified location. Once you have the collage code working (1) modify pictures (e.g. add a colored filter) before you put them on the collage (2) try to add one image veritacally rather than horizontally.
+
+![A collage of animal pictures](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/collage.jpg)
+
 ## SUMMATIVE ASSESSMENT: Instagram Filter
 
 ## Follow-Up Additional Topics and Free Response Questions
