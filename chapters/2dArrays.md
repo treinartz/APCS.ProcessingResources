@@ -10,6 +10,8 @@ This tutorial contains a lot of information, but walks through how to create an 
 
 [https://www.youtube.com/watch?v=15aqFQQVBWU] Code.org video about pixels
 
+[https://processing.org/examples/array2d.html] Cool example of a 2D array as an image
+
 ## LAB #1: Modify all the pixels in an image
 
 The code below modifies all of the pixels in an image. Load an image from your computer and see if you can figure out what changes when this code is run.
@@ -152,4 +154,12 @@ This unit on images introduces the idea of nested loops and thinking about 2D sp
 * Determining the size of a 2D array
 
 Here are some past free response questions that will allow students to practice these skills
+* 2014 - Compute Temperature
+* 2015 - Diverse Array
+* 2016 - Crossword Puzzle
+* 2017 - Successors
 
+Here are some additional videos that cover more 2D array concepts as well
+
+[https://processing.org/tutorials/2darray/] Processing tutorial on 2D arrays
+[https://www.cs.cmu.edu/~mrmiller/15-110/Handouts/arrays2D.pdf] Slides from CMU on 2D arrays (in Java)
