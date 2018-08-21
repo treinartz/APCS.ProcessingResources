@@ -127,7 +127,7 @@ How about a peanut butter and banana sandwich?
   * RGB Colors
 
 **Resources:**
-* Student Guide ( [PDF](https://github.com/treinartz/APCS.ProcessingResources/chapters/Student Guide_Introduction-to-Processing-Handout-Activty2.pdf), [Google Doc](https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing)
+* Student Guide - [Google Doc](https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing)
 * Optional Videos about [Pixels](https://www.youtube.com/watch?v=a562vsSI2Po), [How to Use Setup and Draw](https://www.youtube.com/watch?v=o8dffrZ86gs), and [RGB Colors](https://www.youtube.com/watch?v=n2oHuKG_BQc&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9&index=2)
 
 **Activity Description**
@@ -201,7 +201,7 @@ Using the provided handout, students can use the grid system to identify key poi
 ### Activity #3: DVD Screensaver Code-along and Project
 
 **Activity modality:** Code-along
-_Alternative modality:_ This may also work as a pair programming activity or a POGIL-type of activity.  A set of student facing directions can be found in [Google Doc](https://docs.google.com/document/d/1NAmKSAu1hne4R3ABDo6uf9MYptpzR7nx3umLUi1H6x0/edit?usp=sharing) form if you decide to have students work through this in partners rather than as a big class. 
+*Alternative modality:* This may also work as a pair programming activity or a POGIL-type of activity.  A set of student facing directions can be found in [Google Doc](https://docs.google.com/document/d/1NAmKSAu1hne4R3ABDo6uf9MYptpzR7nx3umLUi1H6x0/edit?usp=sharing) form if you decide to have students work through this in partners rather than as a big class. 
 
 **Goals:** 
 
@@ -211,8 +211,9 @@ _Alternative modality:_ This may also work as a pair programming activity or a P
 + Initiate variables and update variables
 
 **Resources**
-* Student Guide ([google doc](https://docs.google.com/document/d/1NAmKSAu1hne4R3ABDo6uf9MYptpzR7nx3umLUi1H6x0/edit?usp=sharing))
-* [Coding Train Videos](https://www.youtube.com/watch?v=wsI6N9hfW7E&list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_) on Boolean Expressions (5.1 - 5.5) - optional
+* Student Guide - [Google Doc](https://docs.google.com/document/d/1NAmKSAu1hne4R3ABDo6uf9MYptpzR7nx3umLUi1H6x0/edit?usp=sharing)
+* [Starter Code](https://drive.google.com/file/d/1I4jj2OOxXgIgb7di_sMnnyYc-vA9Z2Bv/view?usp=sharing)
+* [Coding Train Videos](https://www.youtube.com/watch?v=wsI6N9hfW7E&list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_) on Boolean Expressions (5.1 - 5.5) - *optional*
 
 
 **Activity Description**
@@ -235,7 +236,13 @@ Transition:
 
 **Get image on the screen**
 
-To do this, students need to add the DVD////////////////////////////////////////////////////////////////////////////////
+To do this, students need to add the DVD_Logo.jpg into their project.  Students will: 
+1. Download the DVD_logo.jpg file.
+2. Create a new folder *inside* the project folder and name that folder "data".
+3. Place the DVD_logo.jpg file inside the data folder.
+
+In the starter code, a variable for the image has been provided.  Students will need to look at [documentation](https://processing.org/reference/image_.html) to determine the best way to get the image to show up on the screen.
+
 
 **Get image to move in x direction**
 + Introduce variables by declaring a global variable dvdx
