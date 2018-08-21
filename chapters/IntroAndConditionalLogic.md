@@ -56,7 +56,7 @@ For this activity, you can choose to “be the computer” yourself or get a few
 * A projector with a space to display the pseudocode as written.  
 * A minimum of two people - one person to act out what the class suggests, one to type what the class suggests in a pseudocode format
 
-After you have set-up the space tell the class that their task is to tell you how to make a peanut butter and jelly sandwich.  You (or your student volunteer) will do exactly as you say.  See ([this video from CS50’s course](https://www.youtube.com/watch?v=euFj8D1A1Kw)) to get an idea of the process.
+After you have set-up the space tell the class that their task is to tell you how to make a peanut butter and jelly sandwich.  You (or your student volunteer) will do exactly as you say.  See [this video from CS50’s course](https://www.youtube.com/watch?v=euFj8D1A1Kw) to get an idea of the process.
 
 *Tip: To avoid having one person (or a few people) dominate the task, consider imposing a rule that no one can talk a second time until everyone in the class has talked once.  Most likely it will not get to be 30+ lines of psuedocode, but it will help distribute the task. *
 
