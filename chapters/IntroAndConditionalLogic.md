@@ -5,7 +5,7 @@
 [Part 2: Activities Code and Instruction](#part-2-activities-and-instruction)
 * Activity #1: [Sandwich making and algorithms](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-1-make-a-peanut-butter-and-jelly-sandwich-activity)
 * Activity #2: [Introduction to Processing](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-2-basic-introduction-to-processing)
-* Acitivty #3: [DVD Screensaver Code-along and Project](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-3-dvd-screensaver-code-along-and-project)
+* Activity #3: [DVD Screensaver Code-along and Project](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-3-dvd-screensaver-code-along-and-project)
 * Activity #4: [ColorMixer](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-4-colormixer)
 
 
@@ -24,7 +24,7 @@ In addition to these activities, there are three formative assessment activities
 * Modular arithmetic
 * Order of operations
 * Conditionals and nested conditionals
-* Declaring and intializing variables
+* Declaring and initializing variables
 
 
 
@@ -153,7 +153,7 @@ _Alternative modality:_ This may also work as a pair programming activity or a P
 Students re-create the bouncing DVD logo in a sketch.  Students are guided through this with an instructor the process suggested is as follows:
 + Get image on the screen
 + Get the image to move in the x direction
-+ Indentify why the movement isn't perfect... yet
++ Identify why the movement isn't perfect... yet
 + Allow students to solve the movement problems AND add movement in the y direction
 + Encourage extensions
 
@@ -220,7 +220,7 @@ To do this, students need to add the DVD////////////////////////////////////////
 
 
 **Activity Description**
-Students are provided some code and are asked to A) comment the exisiting code to make sense of it, and B) modify the exisiting code to function as desired.  
+Students are provided some code and are asked to A) comment the existing code to make sense of it, and B) modify the existing code to function as desired.  
 
 The code provided creates a user interfaces with 6 "buttons" for a user to add or take away red, green, and blue values from a color.  The resulting color swatch is shown on the screen.  Students need to add the functionality of the clicking on the appropriate buttons.  To do this, students will use conditional statements. 
 
@@ -234,7 +234,7 @@ The code provided creates a user interfaces with 6 "buttons" for a user to add o
 * int and double data types
 * Casting from doubles to ints
 * Modular arithmetic
-* Order of opreations
+* Order of operations
 
 ### 10 Question Quiz
 This quiz has 6 questions asking students to trace code and 4 questions asking students to write code using variables, order of operations, and conditionals.
