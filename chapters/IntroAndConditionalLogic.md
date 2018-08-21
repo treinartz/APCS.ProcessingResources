@@ -39,10 +39,77 @@ Goals:
 * Write an algorithm
 * Compare human language to languages computers understand
 * Pull out vocabulary
-  * Parameter
+  * Algorithm
   * Function
   
+The “Peanut Butter and Jelly Sandwich” activity is somewhat of a classic “intro to CS” activity.  It has been re-mixed and implemented many ways here is a variation that introduces students to writing algorithms and also introduces the role of functions in computer programming.
 
+For this activity, you can choose to “be the computer” yourself or get a few students who can interpret directions very literally. 
+
+<details><summary>Activity Details</summary>
+<p>
+
+**Materials needed:**
+* Get a jar of peanut butter, a jar of jelly, and bread - depending on your budget and your student volunteers, you may want to get two different sets of these ingredients.  Note: for peanut-free classrooms, consider using sunbutter instead. 
+* Knives and spoons
+* A table with a plastic tablecloth on it - this could get messy
+* A projector with a space to display the pseudocode as written.  
+* A minimum of two people - one person to act out what the class suggests, one to type what the class suggests in a pseudocode format
+
+After you have set-up the space tell the class that their task is to tell you how to make a peanut butter and jelly sandwich.  You (or your student volunteer) will do exactly as you say.  See [this video from CS50’s course] (https://www.youtube.com/watch?v=euFj8D1A1Kw) to get an idea of the process.
+
+*Tip: To avoid having one person (or a few people) dominate the task, consider imposing a rule that no one can talk a second time until everyone in the class has talked once.  Most likely it will not get to be 30+ lines of psuedocode, but it will help distribute the task. *
+
+We wrote an *algorithm* for a *function* that creates a peanut butter and jelly sandwich.  Each of these lines represents other commands we would need to give the computer to do what we wanted.  For example, in our code, we see a few times we needed to “spread”’ an ingredient, or “open” a container - these could be other functions that we defined elsewhere and are calling here.   Sometimes we have built in functions that are part of the “library” in the coding language.  Other times we need to make our own functions.  
+
+*Transition: While we do not have a robot that we could program to make this sandwich here, we could simulate this with programming.*
+
+Open up processing IDE.  The goal of this session is just to show how we could use a function to tell the computer to draw an open-faced sandwich.   Copy and paste the code below into the processing IDE.  At the moment, do not get into the details of the setup() and draw() functions.  Only show how the function drawOpenSandwich is created and then run the code.  
+
+```
+public void setup(){
+  size (500, 500);
+}
+
+public void draw(){
+  drawOpenSandwich();
+}
+
+public void drawOpenSandwich(){
+  // draw bread
+  noStroke();
+  fill(200, 180, 120);
+  rect(100, 100, 300, 300, 20);
+  
+  // put on peanut butter
+  stroke(170, 130, 60);
+  strokeWeight(80);
+  line(160.0, 160.0, 330.0, 200.0);
+  line(330.0, 200.0, 180.0, 240.0);
+  line(180.0, 240, 340, 260);
+  line(340, 260, 150, 280);
+  line(150, 280, 330, 300);
+  line(330, 300, 155, 340);
+  line(155, 340, 330, 350);
+  
+  // put on jelly
+  stroke(160, 13, 40);
+  strokeWeight(40);
+  line(130.0, 135.0, 360.0, 150.0);
+  line(360.0, 150.0, 130.0, 300.0);
+  line(130.0, 300.0, 350.0, 360.0);
+
+}
+```
+
+**Exit ticket (or closure):**
+Thinking back to our algorithm with pseudocode, imagine I want to make a peanut butter and honey sandwich.  What would need to change in this algorithm?  What could stay the same?
+
+How about a peanut butter and banana sandwich?
+
+
+</p>
+ </details>
 
 ### Activity #2: Basic introduction to Processing. 
 
