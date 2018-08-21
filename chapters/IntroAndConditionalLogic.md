@@ -290,13 +290,19 @@ In the starter code, a variable for the image has been provided.  Students will 
 * Use variables and nested conditionals
 
 **Resources:**
-* Student code
+* [Student code](https://drive.google.com/file/d/1BysZDcCIzvMv0BWKrZ29YHME6M5ufAE_/view?usp=sharing)
 
 
 **Activity Description**
-Students are provided some code and are asked to A) comment the existing code to make sense of it, and B) modify the existing code to function as desired.  
+Students are provided some code and are asked to:
+  A) comment the existing code to make sense of it 
+  B) modify the existing code to function as desired.  
 
 The code provided creates a user interfaces with 6 "buttons" for a user to add or take away red, green, and blue values from a color.  The resulting color swatch is shown on the screen.  Students need to add the functionality of the clicking on the appropriate buttons.  To do this, students will use conditional statements. 
+
+This task is intentionally more open than previous tasks.  For part A, students have 5 comments they are asked to elaborate on in the code.  The Student Code has numbers 1-5 in the setup function for them to write comments for.
+
+From there, students are asked to write code inside the "mouse clicked" function as demonstrated by the GIF below.  
 
 ![ColorMixer](https://media.giphy.com/media/1gSTyvtrXWZdltpdo8/giphy.gif)
 
