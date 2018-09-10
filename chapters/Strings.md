@@ -3,7 +3,7 @@
 
 [Part 1: Introduction](#part-1-introduction)
 
-[Part 2: Activities, Code, & Intstruction](#part-2-activities-code-instruction)
+[Part 2: Activities, Code, & Instruction](#part-2-activities-code-instruction)
 
 Part 3 Formative Assessment
 
@@ -39,7 +39,7 @@ void draw() {
 f = loadFont("ArialMT-16.vlw");
 ```
 
-## LAB EXERCISE 1
+## LAB EXERCISE 1: Displaying Strings
 Learning Objectives
 After completion of this lab, students should be able to
 * Create and display a string object using formatted text
@@ -58,9 +58,12 @@ Modify the code to change
 Here is an example of a completed lab (note yours will look different depending on the font and colors you chose)
 ![The String "Hello Strings" in purple parchment font on a light blue background](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/HelloString2.png)
 
-## LAB EXERCISE 2
+## LAB EXERCISE 2: Parts of Strings
 
-## LAB EXERCISE 3
+## LAB EXERCISE 3: Character input
 
-## LAB EXERCISE 4
+## LAB EXERCISE 4: Processing Strings
+
+## SUMMATIVE ASSESSMENT
+After students have completed this series of labs, we suggest using the College Board MagPie lab. This chatbot-based lab will give the students more practice using Strings in the context of a larger problem. This lab and starter code is available through the College Board portal.
 
