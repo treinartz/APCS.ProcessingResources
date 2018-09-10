@@ -7,6 +7,8 @@
 
 Part 3 Formative Assessment
 
+Part 4 summative Assessment/Project
+
 ## Part 1 Introduction
 
 [https://processing.org/reference/String.html](Processing string documentation)
