@@ -59,11 +59,36 @@ Here is an example of a completed lab (note yours will look different depending 
 ![The String "Hello Strings" in purple parchment font on a light blue background](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/HelloString2.png)
 
 ## LAB EXERCISE 2: Parts of Strings
+Learning Objectives:
+After completion of this lab students should be able to:
+* Use the substring method 
+* Create new strings using concatenation and substring with existing strings
+
+Previous knowledge required: 
+* Displaying strings
+* Concatenation
 
 ## LAB EXERCISE 3: Character input
+Learning Objectives:
+After completion of this lab students should be able to:
+* Read in a single character from the keyboard
+* Process a character input
+
+Previous knowledge required: 
+* if/else statements
 
 ## LAB EXERCISE 4: Processing Strings
+Learning Objectives:
+After completion of this lab students should be able to:
+* Read in complete strings from the keyboard
+* Process strings 
+* Create new strings 
+
+Previous knowledge required: 
+* Displaying strings
+* Substring
+* Character input
 
 ## SUMMATIVE ASSESSMENT
-After students have completed this series of labs, we suggest using the College Board MagPie lab. This chatbot-based lab will give the students more practice using Strings in the context of a larger problem. This lab and starter code is available through the College Board portal.
+After students have completed this series of labs, we suggest using the College Board MagPie lab. This chatbot-based lab will give the students more practice using Strings in the context of a larger problem. This lab and starter code is available through the College Board portal. Students will likely need some bridge material outlining the differences in input/output between processing and Java. 
 
