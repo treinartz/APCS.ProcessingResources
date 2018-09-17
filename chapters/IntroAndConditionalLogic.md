@@ -4,7 +4,7 @@
 
 [Part 2: Activities Code and Instruction](#part-2-activities-and-instruction)
 * Activity #1: [Sandwich making and algorithms](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-1-make-a-peanut-butter-and-jelly-sandwich-activity)
-* Activity #2: [Processing Scavenger Hunt](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-2-Pair-Programming-Processing-Scavenger-Hunt )
+* Activity #2: [Processing Scavenger Hunt](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-2-pair-programming-processing-scavenger-hunt)
 * Activity #3: [Introduction to Processing](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-3-basic-introduction-to-processing)
 * Activity #4: [DVD Screensaver Code-along and Project](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-4-dvd-screensaver-code-along-and-project)
 * Activity #5: [ColorMixer](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-5-colormixer)
@@ -123,8 +123,8 @@ How about a peanut butter and banana sandwich?
 
 
 **Resources:**
-* Student Scavenger Hunt #1 - [Google Doc](https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing)
-* Student Scavenger Hunt #2
+* Student Scavenger Hunt #1 - [Google Doc](https://docs.google.com/document/d/1ovWHgG8u0n3VXVPhW5B1q60pgtuNV297JNq0zb-zWlk/edit?usp=sharing)
+* Student Scavenger Hunt #2 - [Google Doc](https://docs.google.com/document/d/1kdiP_XCRYnWGkXUTZBVgickAVFUSYhfzYl9btEChAMk/edit?usp=sharing)
 
 **Activity Description**
 
