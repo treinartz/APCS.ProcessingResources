@@ -4,9 +4,10 @@
 
 [Part 2: Activities Code and Instruction](#part-2-activities-and-instruction)
 * Activity #1: [Sandwich making and algorithms](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-1-make-a-peanut-butter-and-jelly-sandwich-activity)
-* Activity #2: [Introduction to Processing](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-2-basic-introduction-to-processing)
-* Activity #3: [DVD Screensaver Code-along and Project](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-3-dvd-screensaver-code-along-and-project)
-* Activity #4: [ColorMixer](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-4-colormixer)
+* Activity #2: [Processing Scavenger Hunt](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-2-Pair-Programming-Processing-Scavenger-Hunt )
+* Activity #3: [Introduction to Processing](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-3-basic-introduction-to-processing)
+* Activity #4: [DVD Screensaver Code-along and Project](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-4-dvd-screensaver-code-along-and-project)
+* Activity #5: [ColorMixer](https://github.com/treinartz/APCS.ProcessingResources/blob/gh-pages/chapters/IntroAndConditionalLogic.md#activity-5-colormixer)
 
 
 [Part 3: Formative Assessment](#part-3-formative-assessment)
@@ -111,7 +112,35 @@ How about a peanut butter and banana sandwich?
 </p>
  </details>
 
-### Activity #2: Basic introduction to Processing. 
+### Activity #2: Pair Programming Processing Scavenger Hunt 
+
+**Activity modality:** Pair Programming
+
+**Goals:** 
+* Learn how writing code works - sequencing and basic syntax
+* Read and interpret documentation
+* Gain familiarity with the “setup” and the “draw” functions
+
+
+**Resources:**
+* Student Scavenger Hunt #1 - [Google Doc](https://docs.google.com/document/d/17kb6P0IDRqhpzw-FXE69M4fWFeKF7DNggaVdpP6R1g0/edit?usp=sharing)
+* Student Scavenger Hunt #2
+
+**Activity Description**
+
+The general flow of the lesson includes the following:
+* Students are introduced to the practice of Pair Programming
+* Students open up the Processing IDE and reference
+* Instructor introduces the setup(), draw(), and size() functions
+* Students change the size of their screen
+* Instructor introduces the background() function and models reading the documentation with students.  Students learn the concept of RGB colors.
+* Students change the background color
+* Students place a rectangle on their screen to learn how coordinates work in Processing
+* Students work in a pair programming format to complete the tasks over 2 or more hours
+* Instructor may choose to model reading the documentation and using other functions to get forms on the screen.
+
+
+### Activity #3: Basic introduction to Processing. 
 
 **Activity modality:** Modeling programming and Student-driven project
 
@@ -134,11 +163,6 @@ How about a peanut butter and banana sandwich?
 
 In this lesson, students will create an image on paper and then transfer it to processing.  This lesson calls for a mixture of instructor modeling as well as a student-driven project.  The general flow of the lesson includes the following:
 * Students make an image on graph paper
-* Students open up the Processing IDE and reference
-* Instructor introduces the setup(), draw(), and size() functions
-* Students change the size of their screen
-* Instructor introduces the background() function and models reading the documentation with students.  Students learn the concept of RGB colors.
-* Students change the background color
 * Instructor may choose to model reading the documentation and using other functions to get forms on the screen.
 * Students re-create their image in Processing.
 
@@ -198,7 +222,7 @@ Using the provided handout, students can use the grid system to identify key poi
 </details>
 
 
-### Activity #3: DVD Screensaver Code-along and Project
+### Activity #4: DVD Screensaver Code-along and Project
 
 **Activity modality:** Code-along
 *Alternative modality:* This may also work as a pair programming activity or a POGIL-type of activity.  A set of student facing directions can be found in [Google Doc](https://docs.google.com/document/d/1NAmKSAu1hne4R3ABDo6uf9MYptpzR7nx3umLUi1H6x0/edit?usp=sharing) form if you decide to have students work through this in partners rather than as a big class. 
@@ -279,7 +303,7 @@ In the starter code, a variable for the image has been provided.  Students will 
 </details>
 
   
-### Activity #4: ColorMixer 
+### Activity #5: ColorMixer 
 
 **Activity modality:** Individual Lab
 
@@ -327,4 +351,4 @@ This quiz has 6 questions asking students to trace code and 4 questions asking s
 
 
 
-* Activity #3 was co-developed with Brian Shott for p5 and and adjusted here
+* Activity #4 was co-developed with Brian Shott for p5 and and adjusted here
